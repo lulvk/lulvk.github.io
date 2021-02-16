@@ -17,7 +17,7 @@ M. Jaussein, **L. Lévêque**, J. Deniel, T. Bellet, H. Tattegrain, and C. Marin
 
 J. Deniel, J-C. Bornard, **L. Lévêque**, B. Claverie, and T. Bellet, [Risk and its subjective assessment by the driver: A historical review](https://www.openscience.fr/Risk-and-its-subjective-assessment-by-the-driver-A-historical-review), _ISTE OpenScience: Cognitive Engineering_, vol. 4, July 2020.
 
-**L. Lévêque**, B. VanDe Berg, H. Bosmans, L. Cockmartin, M. Keupers, C. Van Ongeval, and H. Liu, “Analysis of eye-tracking data of screening mammography”, _Signal Processing: Image Communication_, vol. 78, pp. 86-93, October 2019.
+**L. Lévêque**, B. VanDe Berg, H. Bosmans, L. Cockmartin, M. Keupers, C. Van Ongeval, and H. Liu, [Analysis of eye-tracking data of screening mammography](https://www.sciencedirect.com/science/article/abs/pii/S0923596518309652?via%3Dihub), _Signal Processing: Image Communication_, vol. 78, pp. 86-93, October 2019.
 
 **L. Lévêque**, H. Bosmans, L. Cockmartin, and H. Liu, “State of the art: eye-tracking studies in medical imaging”, _IEEE Access_, vol. 6, pp. 37023-37034, June 2018.
 
