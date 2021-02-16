@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr Lucie Lévêque"
 title_separator          : "-"
 name                     : &name "Lucie Lévêque"
-description              : &description "personal description"
+description              : &description "Lucie Lévêque is a Research Fellow with the Laboratory of Ergonomics and Cognitive Science, Gustave Eiffel University. Her research interests include visual perception and attention, human-computer interaction, and medical imaging."
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
