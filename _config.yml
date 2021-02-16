@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr Lucie Lévêque"
 title_separator          : "-"
 name                     : &name "Lucie Lévêque"
-description              : &description "Lucie Lévêque is a Research Fellow with the Laboratory of Ergonomics and Cognitive Science, Gustave Eiffel University. Her research interests include visual perception and attention, human-computer interaction, and medical imaging."
+description              : &description "Research Fellow"
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Lucie Lévêque"
   avatar           : "Me.jpg"
-  bio              : "Lucie Lévêque is a Research Fellow with the Laboratory of Ergonomics and Cognitive Science, Gustave Eiffel University. Her research interests include visual perception and attention, human-computer interaction, and medical imaging."
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.uk/citations?user=a7UuJD8AAAAJ&hl=en"
+  bio              : "Research Fellow"
+  employer         : "Université Gustave Eiffel"
+  location         : "Lyon, France"
   email            : "mailto:lucie.leveque@univ-eiffel.fr"
+  pubmed           : 
+  linkedin         : "https://www.linkedin.com/in/lucie-leveque/"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=a7UuJD8AAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Lucie_Leveque"
   uri              :
   bitbucket        :
@@ -96,14 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "lulvk"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/lucie-leveque/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
