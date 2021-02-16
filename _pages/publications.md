@@ -19,11 +19,11 @@ J. Deniel, J-C. Bornard, **L. Lévêque**, B. Claverie, and T. Bellet, [Risk and
 
 **L. Lévêque**, B. VanDe Berg, H. Bosmans, L. Cockmartin, M. Keupers, C. Van Ongeval, and H. Liu, [Analysis of eye-tracking data of screening mammography](https://www.sciencedirect.com/science/article/abs/pii/S0923596518309652?via%3Dihub), _Signal Processing: Image Communication_, vol. 78, pp. 86-93, October 2019.
 
-**L. Lévêque**, H. Bosmans, L. Cockmartin, and H. Liu, “State of the art: eye-tracking studies in medical imaging”, _IEEE Access_, vol. 6, pp. 37023-37034, June 2018.
+**L. Lévêque**, H. Bosmans, L. Cockmartin, and H. Liu, [State of the art: eye-tracking studies in medical imaging](https://ieeexplore.ieee.org/document/8399735), _IEEE Access_, vol. 6, pp. 37023-37034, June 2018.
 
-**L. Lévêque**, and H. Liu, “State of the art on medical image and video quality assessment”, _IEEE Multimedia Communications Technical Committee (MMTC) – Frontiers_, vol. 13, pp. 16-23, May 2018.
+**L. Lévêque**, and H. Liu, [State of the art on medical image and video quality assessment](http://site.ieee.org/comsoc-mmctc/files/2018/07/01-MMTC_Communication_Frontier_May_2018-Final-Revised.pdf), _IEEE Multimedia Communications Technical Committee (MMTC) – Frontiers_, vol. 13, pp. 16-23, May 2018.
 
-**L. Lévêque**, W. Zhang, P. Parker, and H. Liu, “The impact of specialty settings on the perceived quality of medical ultrasound video”, _IEEE Access_, vol. 5, pp. 16998-17005, August 2017.
+**L. Lévêque**, W. Zhang, P. Parker, and H. Liu, [The impact of specialty settings on the perceived quality of medical ultrasound video](https://ieeexplore.ieee.org/document/8017379), _IEEE Access_, vol. 5, pp. 16998-17005, August 2017.
 
-**L. Lévêque**, W. Zhang, C. Cavaro-Ménard, P. Le Callet, and H. Liu, "Study of video quality assessment for telesurgery”, _IEEE Access_, vol. 5, pp. 9990-9999, May 2017.
+**L. Lévêque**, W. Zhang, C. Cavaro-Ménard, P. Le Callet, and H. Liu, [Study of video quality assessment for telesurgery](https://ieeexplore.ieee.org/abstract/document/7927709), _IEEE Access_, vol. 5, pp. 9990-9999, May 2017.
 
