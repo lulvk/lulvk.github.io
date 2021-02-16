@@ -20,7 +20,7 @@ published: true
 
 **L. Lévêque**, W. Zhang, and H. Liu, [International comparison of radiologists’ assessment of the perceptual quality of medical ultrasound video](https://ieeexplore.ieee.org/document/8743180),_11th IEEE International Conference of Quality of Multimedia Experience (QoMEX), Berlin, Germany_, June 2019.
 
-W. Zhang, W. Zou, F. Yang, **L. Lévêque**, and H. Liu, “The effect of spatio-temporal inconsistency on the subjective quality evaluation of omnidirectional videos”, _44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, United Kingdom_, May 2019.
+W. Zhang, W. Zou, F. Yang, **L. Lévêque**, and H. Liu, [The effect of spatio-temporal inconsistency on the subjective quality evaluation of omnidirectional videos](https://ieeexplore.ieee.org/document/8682221), _44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, United Kingdom_, May 2019.
 
 **L. Lévêque**, S. Barakovic, J. Barakovic-Husic, A. Kumcu, L. Platisa, M. Martini, R. Rodrigues, A. Pinheiro, M. Outtas, L. Zhang, and A. Skadros, "On the subjective assessment of the perceived quality of medical images and videos”, _10th IEEE International Conference of Quality of Multimedia Experience (QoMEX), Sardinia, Italy_, May 2018.
 
