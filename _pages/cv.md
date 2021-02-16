@@ -12,7 +12,7 @@ published: true
 
 ## Current position
 
-### RESEARCH FELLOW
+### Research Fellow
 
 From March 2020 to date
 
