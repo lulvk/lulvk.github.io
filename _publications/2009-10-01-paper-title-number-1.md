@@ -1,7 +1,5 @@
 ---
-title: >-
-  Comparative study of the methodologies used for medical image quality
-  assessment
+title: Paper Number 1
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: This paper is about the number 1. The number 2 is left for future work.
@@ -13,8 +11,8 @@ citation: >-
   1(1).
 published: true
 ---
-Hello world
+This paper is about the number 1.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-**L. Lévêque**, M. Outtas, H. Liu, and L. Zhang, "Comparative study of the methodologies used for medical image quality assessment”, _Submitted to Physics in Medicine & Biology_, February 2021.
+Recommended citation: Your Name, You. (2010). "Paper Title Number 1." <i>Journal 1</i>. 1(2).
