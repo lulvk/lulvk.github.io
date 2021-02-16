@@ -12,7 +12,7 @@ published: true
 
 **L. Lévêque**, J. Yang, X. Yang, P. Guo, K. Dasalla, L. Li, Y. Wu, and H. Liu, [CUID: A new study of perceived image quality and its subjective assessment](https://ieeexplore.ieee.org/document/9190737), _27th IEEE International Conference on Image Processing (ICIP), Online_, October 2020.
 
-**L. Lévêque**, S. Dev, M. Hossari, Y. Hui Lee, and S. Winkler, “Subjective quality assessment of ground-based camera images”, _42nd Photonics and Electromagnetics Research Symposium (PIERS), Xiamen, Fujian, China_, December 2019.
+**L. Lévêque**, S. Dev, M. Hossari, Y. Hui Lee, and S. Winkler, [Subjective quality assessment of ground-based camera images](https://ieeexplore.ieee.org/document/9021449), _42nd Photonics and Electromagnetics Research Symposium (PIERS), Xiamen, Fujian, China_, December 2019.
 
 **L. Lévêque**, W. Zhang, and H. Liu, “Subjective assessment of image quality induced saliency variation”, _26th IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan_, September 2019.
 
