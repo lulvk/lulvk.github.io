@@ -1,14 +1,10 @@
 ---
 layout: archive
-title: Publications
+title: Journal publications
 permalink: /publications/
 author_profile: true
 published: true
 ---
-Peer-reviewed journal publications
-==
-
-
 M. Jaussein, **L. Lévêque**, J. Deniel, T. Bellet, H. Tattegrain, and C. Marin-Lamellet, How do non-driving related tasks affect attentional engagement under automated driving? A literature review, _In writing for submission to Frontiers in Psychology_, February 2021.
 
 **L. Lévêque**, M. Outtas, H. Liu, and L. Zhang, Comparative study of the methodologies used for medical image quality assessment, _Submitted to Physics in Medicine & Biology_, February 2021.
