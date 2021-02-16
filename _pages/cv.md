@@ -10,9 +10,9 @@ published: true
 
 {% include base_path %}
 
-Current position
+## Current position
 ======
-RESEARCH FELLOW 
+### RESEARCH FELLOW
 
 FROM MARCH 2020 TO DATE
 LABORATORY OF ERGONOMICS AND COGNITIVE SCIENCE APPLIED TO TRANSPORT
