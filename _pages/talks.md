@@ -30,12 +30,12 @@ W. Zhang, W. Zou, F. Yang, **L. Lévêque**, and H. Liu, “The effect of spatio
 Other conference and workshop abstracts and presentations
 ==
 
-L. Lévêque, H. Bosmans, L. Cockmartin, and H. Liu, "Impact of expertise on reading mammograms: An eye-tracking study”, Medical Image Perception Society (MIPS) XVIII, Salt Lake City, Utah, United States of America, July 2019.
+**L. Lévêque**, H. Bosmans, L. Cockmartin, and H. Liu, "Impact of expertise on reading mammograms: An eye-tracking study”, Medical Image Perception Society (MIPS) XVIII, Salt Lake City, Utah, United States of America, July 2019.
 
-L. Lévêque, and H. Liu, “An eye-tracking study with mammograms”, EPSRC Image Guided Therapy Network+, London, United Kingdom, June 2018.
+**L. Lévêque**, and H. Liu, “An eye-tracking study with mammograms”, EPSRC Image Guided Therapy Network+, London, United Kingdom, June 2018.
 
-L. Lévêque, Y. Cheng, C. Cavaro-Ménard, and H. Liu, "Quality assessment of ultrasound video for medical tele-assistance”, Medical Image Perception Society (MIPS) XVII, Houston, Texas, United States of America, July 2017.
+**L. Lévêque**, Y. Cheng, C. Cavaro-Ménard, and H. Liu, "Quality assessment of ultrasound video for medical tele-assistance”, Medical Image Perception Society (MIPS) XVII, Houston, Texas, United States of America, July 2017.
 
-L. Lévêque, C. Cavaro-Ménard, P. Le Callet, and E. Lermite, "Quality of experience for remote surgery: A preliminary study for abdominal surgery”, Medical Image Perception Society (MIPS) XVI, Ghent, Belgium, June 2015.
+**L. Lévêque**, C. Cavaro-Ménard, P. Le Callet, and E. Lermite, "Quality of experience for remote surgery: A preliminary study for abdominal surgery”, Medical Image Perception Society (MIPS) XVI, Ghent, Belgium, June 2015.
 
-L. Lévêque, C. Cavaro-Ménard, P. Le Callet, and E. Lermite, "La qualité d’expérience en télémédecine, études préliminaires appliquées à la chirurgie abdominale", Congrès annuel de la Société de Neurophysiologie Clinique de Langue Française, Angers, France, June 2014.
+**L. Lévêque**, C. Cavaro-Ménard, P. Le Callet, and E. Lermite, "La qualité d’expérience en télémédecine, études préliminaires appliquées à la chirurgie abdominale", Congrès annuel de la Société de Neurophysiologie Clinique de Langue Française, Angers, France, June 2014.
