@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dr Lucie Lévêque"
 description              : &description "personal description"
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
