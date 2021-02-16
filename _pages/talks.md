@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: Talks and presentations
+title: Peer-reviewed conference publications
 permalink: /talks/
 author_profile: true
 published: true
 ---
-Peer-reviewed conference publications
 
 L. Lévêque, P. Young, and H. Liu, “Studying the gaze patterns of expert radiologists in screening mammography: A case study with Breast Test Wales”, 28th European Signal Processing Conference (EUSIPCO), Online, January 2021.
 
