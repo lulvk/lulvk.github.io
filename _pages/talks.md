@@ -6,9 +6,9 @@ author_profile: true
 published: true
 ---
 
-**L. Lévêque**, P. Young, and H. Liu, “Studying the gaze patterns of expert radiologists in screening mammography: A case study with Breast Test Wales”, _28th European Signal Processing Conference (EUSIPCO), Online_, January 2021.
+**L. Lévêque**, P. Young, and H. Liu, [Studying the gaze patterns of expert radiologists in screening mammography: A case study with Breast Test Wales](https://ieeexplore.ieee.org/document/9287678), _28th European Signal Processing Conference (EUSIPCO), Online_, January 2021.
 
-**L. Lévêque**, T. Bellet, J-C. Bornard, J. Deniel, M. Ranchet, E. De Baere, and B. Richard, “Development of an immersive simulation platform to study interactions between automated vehicles and pedestrians”, _4th International Conference on Computer-Human Interaction Research and Applications, Online_, pp. 249-254, November 2020.
+**L. Lévêque**, T. Bellet, J-C. Bornard, J. Deniel, M. Ranchet, E. De Baere, and B. Richard, [Development of an immersive simulation platform to study interactions between automated vehicles and pedestrians](https://www.researchgate.net/publication/344418400_Development_of_an_Immersive_Simulation_Platform_to_Study_Interactions_Between_Automated_Vehicles_and_Pedestrians), _4th International Conference on Computer-Human Interaction Research and Applications, Online_, pp. 249-254, November 2020.
 
 **L. Lévêque**, J. Yang, X. Yang, P. Guo, K. Dasalla, L. Li, Y. Wu, and H. Liu, "CUID: A new study of perceived image quality and its subjective assessment”, _27th IEEE International Conference on Image Processing (ICIP), Online_, October 2020.
 
