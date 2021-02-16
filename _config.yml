@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Dr Lucie Lévêque"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Lucie Lévêque"
+  name             : "Your Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Lyon, France"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.uk/citations?user=a7UuJD8AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
