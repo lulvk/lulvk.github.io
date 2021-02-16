@@ -14,11 +14,11 @@ published: true
 
 **L. Lévêque**, S. Dev, M. Hossari, Y. Hui Lee, and S. Winkler, [Subjective quality assessment of ground-based camera images](https://ieeexplore.ieee.org/document/9021449), _42nd Photonics and Electromagnetics Research Symposium (PIERS), Xiamen, Fujian, China_, December 2019.
 
-**L. Lévêque**, W. Zhang, and H. Liu, “Subjective assessment of image quality induced saliency variation”, _26th IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan_, September 2019.
+**L. Lévêque**, W. Zhang, and H. Liu, [Subjective assessment of image quality induced saliency variation](https://ieeexplore.ieee.org/document/8803736), _26th IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan_, September 2019.
 
-**L. Lévêque**, and H. Liu, “An eye-tracking database of video advertising”, _26th IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan_, September 2019.
+**L. Lévêque**, and H. Liu, [An eye-tracking database of video advertising](https://ieeexplore.ieee.org/document/8802989), _26th IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan_, September 2019.
 
-**L. Lévêque**, W. Zhang, and H. Liu, “International comparison of radiologists’ assessment of the perceptual quality of medical ultrasound video”,_11th IEEE International Conference of Quality of Multimedia Experience (QoMEX), Berlin, Germany_, June 2019.
+**L. Lévêque**, W. Zhang, and H. Liu, [International comparison of radiologists’ assessment of the perceptual quality of medical ultrasound video](https://ieeexplore.ieee.org/document/8743180),_11th IEEE International Conference of Quality of Multimedia Experience (QoMEX), Berlin, Germany_, June 2019.
 
 W. Zhang, W. Zou, F. Yang, **L. Lévêque**, and H. Liu, “The effect of spatio-temporal inconsistency on the subjective quality evaluation of omnidirectional videos”, _44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, United Kingdom_, May 2019.
 
