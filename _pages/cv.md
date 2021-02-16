@@ -34,6 +34,5 @@ Gustave Eiffel University, Lyon, France
   
 Education
 ======
-* Ph.D in Computer Science, Cardiff University, 2019
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, Cardiff University, 2019
+* M.Sc. 
