@@ -35,4 +35,5 @@ Gustave Eiffel University, Lyon, France
 Education
 ======
 * Ph.D. in Computer Science, Cardiff University, 2019
-* M.Sc. 
+* M.Sc. in Signals and Images in Biology and Medicine, University of Angers,2015
+* M.Eng. in Applied 
