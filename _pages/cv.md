@@ -1,19 +1,28 @@
 ---
 layout: archive
-title: "CV"
+title: CV
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+published: true
 ---
 
 {% include base_path %}
 
-Education
+Current position
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+RESEARCH FELLOW 
+
+FROM MARCH 2020 TO DATE
+LABORATORY OF ERGONOMICS AND COGNITIVE SCIENCE APPLIED TO TRANSPORT
+GUSTAVE EIFFEL UNIVERSITY, LYON, FRANCE
+
+·	Research project: SUpporting acceptance of automated VEhicle (SUaaVE), European funding (Horizon 2020). The SUaaVE project aims to make a change in the current situation of public acceptance of connected automated vehicle by leaning on a human-driven design approach. It involves all current and future users in a broad sense, i.e., drivers, passengers, vulnerable road users, public authorities, and industry.
+·	Role: Creation of driving scenarios (use cases), establishment of user tests (interactions between automated vehicles and pedestrians using driving simulation and virtual reality), statistical analyses, redaction and proof-reading of project deliverables, active member of the Web & Communication task force.
+·	Skills developed: UX/UI design, cognitive modelling, cognitive simulation, usability, artificial intelligence, project management.
+
+
 
 Work experience
 ======
@@ -26,6 +35,15 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+  
+  
+Education
+======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+
   
 Skills
 ======
