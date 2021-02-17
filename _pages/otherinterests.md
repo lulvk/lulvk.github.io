@@ -27,5 +27,5 @@ What's **next**? Downhill moutain biking in the Alps (Spring or Summer 2021)!
 And to decompress?
 ====
 
-I have been practising **yoga** and **meditation** for a few years. I enjoy reading a good book in the sun.
+I have been practising **yoga** and **meditation** for a few years. I enjoy reading a good book in the sun. <br />
 But, all things considered, peeting my **cat** remains the best way to relax ;-)
