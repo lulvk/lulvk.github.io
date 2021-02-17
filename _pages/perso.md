@@ -1,8 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Me, Myself & I"
 permalink: /portfolio/
 author_profile: true
 ---
-
-Me, Myself & I
