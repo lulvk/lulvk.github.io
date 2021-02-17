@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Me, Myself & I"
+title: "Work in progress!"
 permalink: /perso/
 author_profile: true
 ---
