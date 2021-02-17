@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Peer-reviewed conference publications
-permalink: /talks/
+permalink: /conferences/
 author_profile: true
 published: true
 ---
