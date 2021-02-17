@@ -17,4 +17,5 @@ On my **bucket list?** Australia, Brazil, Croatia, Mauritius, Namibia, New Zeala
 Sports
 ====
 
-... is also something I am keen on. Swimming and hiking are probably among my favourite. 
+... is also something I am keen on. Swimming and hiking are probably among my favourite. <br />
+But I like cycling and dancing as well. I have recently started bouldering (indoors) and climbing (via ferrata).
