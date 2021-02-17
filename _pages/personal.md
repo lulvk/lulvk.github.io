@@ -14,8 +14,9 @@ Taiwan, United Kingdom, United States. Follow the link to [my travel blog](https
 
 On my **bucket list?** Australia, Brazil, Croatia, Mauritius, Namibia, New Zealand, Oman, Tanzania...
 
+
 Sports
 ====
 
-... is also something I am keen on. Swimming and hiking are probably among my favourite. <br />
-But I like cycling and dancing as well. I have recently started bouldering (indoors) and climbing (via ferrata).
+... is also something I am keen on: **swimming** and **hiking** are probably among my favourite. <br />
+But I like cycling, dancing, and horseriding as well. I have recently started bouldering (indoors) and climbing (via ferrata).
