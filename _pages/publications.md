@@ -21,6 +21,3 @@ J. Deniel, J-C. Bornard, **L. Lévêque**, B. Claverie, and T. Bellet, [Risk and
 **L. Lévêque**, W. Zhang, P. Parker, and H. Liu, [The impact of specialty settings on the perceived quality of medical ultrasound video](https://ieeexplore.ieee.org/document/8017379){:target="_blank"}, _IEEE Access_, vol. 5, pp. 16998-17005, August 2017.
 
 **L. Lévêque**, W. Zhang, C. Cavaro-Ménard, P. Le Callet, and H. Liu, [Study of video quality assessment for telesurgery](https://ieeexplore.ieee.org/abstract/document/7927709){:target="_blank"}, _IEEE Access_, vol. 5, pp. 9990-9999, May 2017.
-
-
-You can also find my articles on <u><a href="{{https://scholar.google.co.uk/citations?user=a7UuJD8AAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
