@@ -1,6 +1,8 @@
 ---
 layout: archive
-title: "Work in progress!"
+title: "Me, myself & I"
 permalink: /personal/
 author_profile: true
 ---
+
+Traveling has been my greatest passion for ten years.
