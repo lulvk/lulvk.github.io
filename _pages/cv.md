@@ -13,14 +13,14 @@ published: true
 Current position
 ======
 ### Research Fellow
-From March 2020 to date
+_From March 2020 to date_
 Laboratory of Ergonomics and Cognitive Science applied to Transport
 Université Gustave Eiffel, Lyon, France
  
 Work experience
 ======
 ### Research Fellow / Lecturer
-From February to December 2019
+_From February to December 2019_
 School of Advanced Technology
 Xi'an Jiaotong-Liverpool University, Suzhou, China  
   
