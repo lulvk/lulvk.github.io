@@ -28,4 +28,4 @@ And to decompress?
 ====
 
 I have been practising yoga and meditation for a few years. I enjoy reading a good book in the sun. <br />
-But, all things considered, the best way to relax remains in petting my cat ;-)
+But, all things considered, peeting my cat remains the best way to relax ;-)
