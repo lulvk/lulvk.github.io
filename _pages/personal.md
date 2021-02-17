@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Work in progress!"
-permalink: /perso/
+permalink: /personal/
 author_profile: true
 ---
