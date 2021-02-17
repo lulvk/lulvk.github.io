@@ -6,25 +6,25 @@ author_profile: true
 published: true
 ---
 
-**L. Lévêque**, P. Young, and H. Liu, [Studying the gaze patterns of expert radiologists in screening mammography: A case study with Breast Test Wales](https://ieeexplore.ieee.org/document/9287678), _28th European Signal Processing Conference (EUSIPCO), Online_, January 2021.
+**L. Lévêque**, P. Young, and H. Liu, [Studying the gaze patterns of expert radiologists in screening mammography: A case study with Breast Test Wales](https://ieeexplore.ieee.org/document/9287678){:target="_blank"}, _28th European Signal Processing Conference (EUSIPCO), Online_, January 2021.
 
-**L. Lévêque**, T. Bellet, J-C. Bornard, J. Deniel, M. Ranchet, E. De Baere, and B. Richard, [Development of an immersive simulation platform to study interactions between automated vehicles and pedestrians](https://www.researchgate.net/publication/344418400_Development_of_an_Immersive_Simulation_Platform_to_Study_Interactions_Between_Automated_Vehicles_and_Pedestrians), _4th International Conference on Computer-Human Interaction Research and Applications, Online_, pp. 249-254, November 2020.
+**L. Lévêque**, T. Bellet, J-C. Bornard, J. Deniel, M. Ranchet, E. De Baere, and B. Richard, [Development of an immersive simulation platform to study interactions between automated vehicles and pedestrians](https://www.researchgate.net/publication/344418400_Development_of_an_Immersive_Simulation_Platform_to_Study_Interactions_Between_Automated_Vehicles_and_Pedestrians){:target="_blank"}, _4th International Conference on Computer-Human Interaction Research and Applications, Online_, pp. 249-254, November 2020.
 
-**L. Lévêque**, J. Yang, X. Yang, P. Guo, K. Dasalla, L. Li, Y. Wu, and H. Liu, [CUID: A new study of perceived image quality and its subjective assessment](https://ieeexplore.ieee.org/document/9190737), _27th IEEE International Conference on Image Processing (ICIP), Online_, October 2020.
+**L. Lévêque**, J. Yang, X. Yang, P. Guo, K. Dasalla, L. Li, Y. Wu, and H. Liu, [CUID: A new study of perceived image quality and its subjective assessment](https://ieeexplore.ieee.org/document/9190737){:target="_blank"}, _27th IEEE International Conference on Image Processing (ICIP), Online_, October 2020.
 
-**L. Lévêque**, S. Dev, M. Hossari, Y. Hui Lee, and S. Winkler, [Subjective quality assessment of ground-based camera images](https://ieeexplore.ieee.org/document/9021449), _42nd Photonics and Electromagnetics Research Symposium (PIERS), Xiamen, Fujian, China_, December 2019.
+**L. Lévêque**, S. Dev, M. Hossari, Y. Hui Lee, and S. Winkler, [Subjective quality assessment of ground-based camera images](https://ieeexplore.ieee.org/document/9021449){:target="_blank"}, _42nd Photonics and Electromagnetics Research Symposium (PIERS), Xiamen, Fujian, China_, December 2019.
 
-**L. Lévêque**, W. Zhang, and H. Liu, [Subjective assessment of image quality induced saliency variation](https://ieeexplore.ieee.org/document/8803736), _26th IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan_, September 2019.
+**L. Lévêque**, W. Zhang, and H. Liu, [Subjective assessment of image quality induced saliency variation](https://ieeexplore.ieee.org/document/8803736){:target="_blank"}, _26th IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan_, September 2019.
 
-**L. Lévêque**, and H. Liu, [An eye-tracking database of video advertising](https://ieeexplore.ieee.org/document/8802989), _26th IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan_, September 2019.
+**L. Lévêque**, and H. Liu, [An eye-tracking database of video advertising](https://ieeexplore.ieee.org/document/8802989){:target="_blank"}, _26th IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan_, September 2019.
 
-**L. Lévêque**, W. Zhang, and H. Liu, [International comparison of radiologists’ assessment of the perceptual quality of medical ultrasound video](https://ieeexplore.ieee.org/document/8743180),_11th IEEE International Conference of Quality of Multimedia Experience (QoMEX), Berlin, Germany_, June 2019.
+**L. Lévêque**, W. Zhang, and H. Liu, [International comparison of radiologists’ assessment of the perceptual quality of medical ultrasound video](https://ieeexplore.ieee.org/document/8743180){:target="_blank"},_11th IEEE International Conference of Quality of Multimedia Experience (QoMEX), Berlin, Germany_, June 2019.
 
-W. Zhang, W. Zou, F. Yang, **L. Lévêque**, and H. Liu, [The effect of spatio-temporal inconsistency on the subjective quality evaluation of omnidirectional videos](https://ieeexplore.ieee.org/document/8682221), _44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, United Kingdom_, May 2019.
+W. Zhang, W. Zou, F. Yang, **L. Lévêque**, and H. Liu, [The effect of spatio-temporal inconsistency on the subjective quality evaluation of omnidirectional videos](https://ieeexplore.ieee.org/document/8682221){:target="_blank"}, _44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, United Kingdom_, May 2019.
 
-**L. Lévêque**, S. Barakovic, J. Barakovic-Husic, A. Kumcu, L. Platisa, M. Martini, R. Rodrigues, A. Pinheiro, M. Outtas, L. Zhang, and A. Skadros, [On the subjective assessment of the perceived quality of medical images and videos](https://ieeexplore.ieee.org/document/8463297?part=1), _10th IEEE International Conference of Quality of Multimedia Experience (QoMEX), Sardinia, Italy_, May 2018.
+**L. Lévêque**, S. Barakovic, J. Barakovic-Husic, A. Kumcu, L. Platisa, M. Martini, R. Rodrigues, A. Pinheiro, M. Outtas, L. Zhang, and A. Skadros, [On the subjective assessment of the perceived quality of medical images and videos](https://ieeexplore.ieee.org/document/8463297?part=1){:target="_blank"}, _10th IEEE International Conference of Quality of Multimedia Experience (QoMEX), Sardinia, Italy_, May 2018.
 
-**L. Lévêque**, C. Cavaro-Ménard, P. Le Callet, Y. Cheng, and H. Liu, [Video quality perception in telesurgery](https://ieeexplore.ieee.org/document/8122219), _19th IEEE International Workshop on Multimedia Signal Processing (MMSP), Luton, United Kingdom_, October 2017.
+**L. Lévêque**, C. Cavaro-Ménard, P. Le Callet, Y. Cheng, and H. Liu, [Video quality perception in telesurgery](https://ieeexplore.ieee.org/document/8122219){:target="_blank"}, _19th IEEE International Workshop on Multimedia Signal Processing (MMSP), Luton, United Kingdom_, October 2017.
 
 
 Other conference and workshop abstracts and presentations
