@@ -6,8 +6,6 @@ author_profile: true
 published: true
 ---
 
-M. Jaussein, **L. Lévêque**, J. Deniel, T. Bellet, H. Tattegrain, and C. Marin-Lamellet, How do non-driving related tasks affect attentional engagement under automated driving? A literature review, _In writing for submission to Frontiers in Psychology_, February 2021.
-
 **L. Lévêque**, M. Outtas, H. Liu, and L. Zhang, Comparative study of the methodologies used for medical image quality assessment, _Submitted to Physics in Medicine & Biology_, February 2021.
 
 **L. Lévêque**, M. Ranchet, J. Deniel, J-C. Bornard, and T. Bellet, [Where do pedestrians look when crossing? A state of the art of the eye-tracking studies](https://ieeexplore.ieee.org/document/9184866){:target="_blank"}, _IEEE Access_, vol. 8, pp. 164833-164843, September 2020.
