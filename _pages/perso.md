@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Me, Myself & I"
-permalink: /portfolio/
+permalink: /perso/
 author_profile: true
 ---
