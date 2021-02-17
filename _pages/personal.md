@@ -13,3 +13,8 @@ Hong Kong, Iceland, Indonesia, Iran, Ireland, Italy, Macao, Morocco, Netherlands
 Taiwan, United Kingdom, United States. Follow the link to [my travel blog](https://www.myatlas.com/LuLvk/){:target="_blank"} for exciting traveling stories! :blush:
 
 On my **bucket list?** Australia, Brazil, Croatia, Mauritius, Namibia, New Zealand, Oman, Tanzania...
+
+Sports
+====
+
+... is also something I am keen on. Swimming and hiking are probably among my favourite. 
