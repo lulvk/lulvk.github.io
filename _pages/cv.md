@@ -21,6 +21,7 @@ Université Gustave Eiffel, Lyon, France
 _From February to December 2019_ <br />
 School of Advanced Technology <br />
 Xi'an Jiaotong-Liverpool University, Suzhou, China  
+<br />
   
 Education
 ======
