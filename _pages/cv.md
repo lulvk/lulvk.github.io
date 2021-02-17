@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: CV
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,13 +10,16 @@ published: true
 
 {% include base_path %}
 
-## Work experience
-
+Current position
+======
 * From March 2020 to date: Research Fellow
   * Laboratory of Ergonomics and Cognitive Science applied to Transport
   * Université Gustave Eiffel
   * Lyon, France
-
+ 
+ 
+Work experience
+======
 * From February to December 2019: Research Fellow / Lecturer
   * School of Advanced Technology
   * Xi'an Jiaotong-Liverpool University
