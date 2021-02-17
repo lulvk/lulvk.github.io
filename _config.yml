@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lucie Lévêque"
   avatar           : "Me.jpg"
-  bio              : "Research Fellow  Université Gustave Eiffel"
+  bio              : "Research Fellow <br /> Université Gustave Eiffel"
   employer         : 
   location         : "Lyon, France"
   email            : "lucie.leveque@univ-eiffel.fr"
