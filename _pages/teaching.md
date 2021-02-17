@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /teaching/
+permalink: /Work in progress!/
 author_profile: true
 ---
