@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Traveling"
-permalink: /personal/
+permalink: /otherinterests/
 author_profile: true
 ---
 
