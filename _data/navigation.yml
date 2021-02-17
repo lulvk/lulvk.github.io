@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Conferences"
-    url: /talks/    
+    url: /conferences/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -13,4 +13,4 @@ main:
     url: /cv/
     
   - title: "Perso"
-    url: /portfolio/
+    url: /perso/
