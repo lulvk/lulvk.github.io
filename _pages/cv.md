@@ -10,15 +10,13 @@ published: true
 
 {% include base_path %}
 
-Current position
+Work experience
 ======
 ### Research Fellow
 _From March 2020 to date_ <br />
 Laboratory of Ergonomics and Cognitive Science applied to Transport <br />
 Université Gustave Eiffel, Lyon, France
- 
-Work experience
-======
+
 ### Research Fellow / Lecturer
 _From February to December 2019_ <br />
 School of Advanced Technology <br />
