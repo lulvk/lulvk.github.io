@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr Lucie Lévêque"
 title_separator          : "-"
 name                     : &name "Lucie Lévêque"
-description              : &description "Research Fellow  Université Gustave Eiffel"
+description              : &description "Research Fellow"
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "lulvk"
   google_plus      :
   keybase          :
   instagram        :
