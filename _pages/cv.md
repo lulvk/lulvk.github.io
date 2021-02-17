@@ -12,7 +12,7 @@ published: true
 
 Current position
 ======
-Research Fellow
+### Research Fellow
 * From March 2020 to date
   * Laboratory of Ergonomics and Cognitive Science applied to Transport
   * Université Gustave Eiffel, Lyon, France
