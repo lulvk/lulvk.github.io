@@ -5,7 +5,7 @@ permalink: /aboutme/
 author_profile: true
 ---
 
-I was born in 1992 in Le Mans, France.
+I am a 28-year old French woman.
 
 
 Traveling
