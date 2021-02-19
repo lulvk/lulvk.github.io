@@ -25,8 +25,8 @@ W. Zhang, W. Zou, F. Yang, **L. Lévêque**, and H. Liu, [The effect of spatio-t
 **L. Lévêque**, S. Barakovic, J. Barakovic-Husic, A. Kumcu, L. Platisa, M. Martini, R. Rodrigues, A. Pinheiro, M. Outtas, L. Zhang, and A. Skadros, [On the subjective assessment of the perceived quality of medical images and videos](https://ieeexplore.ieee.org/document/8463297?part=1){:target="_blank"}, _10th IEEE International Conference of Quality of Multimedia Experience (QoMEX), Sardinia, Italy_, May 2018.
 
 **L. Lévêque**, C. Cavaro-Ménard, P. Le Callet, Y. Cheng, and H. Liu, [Video quality perception in telesurgery](https://ieeexplore.ieee.org/document/8122219){:target="_blank"}, _19th IEEE International Workshop on Multimedia Signal Processing (MMSP), Luton, United Kingdom_, October 2017.
-
-
+<br />
+<br />
 Other conference and workshop abstracts and presentations
 ==
 
