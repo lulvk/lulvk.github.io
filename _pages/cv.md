@@ -12,13 +12,11 @@ published: true
 
 Work experience
 ======
-### Research Fellow
-_From March 2020 to date_ <br />
+### Research Fellow (from March 2020 to date) <br />
 Laboratory of Ergonomics and Cognitive Science applied to Transport <br />
 Université Gustave Eiffel, Lyon, France
 
-### Research Fellow / Lecturer in Computer Science
-_From February to December 2019_ <br />
+### Research Fellow / Lecturer (from February to December 2019) <br />
 School of Advanced Technology <br />
 Xi'an Jiaotong-Liverpool University, Suzhou, China  
 <br />
