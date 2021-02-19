@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "Traveling"
-permalink: /otherinterests/
+title: "Me, myself & I"
+permalink: /aboutme/
 author_profile: true
 ---
+
+I am a 28-year old (29 soon!) French woman. 
+
+
+Traveling
+====
 
 ... has been my greatest passion for ten years. I want to keep a childlike sense of wonder about the world. <br />
 There is always something new to learn, always something wonderful to discover and to explore.
