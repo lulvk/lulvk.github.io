@@ -29,8 +29,8 @@ Academic leadership
 
 Education
 ======
-* Ph.D. in Computer Science, Cardiff University, United Kingdom, 2019
-* M.Sc. in Signals and Images in Biology and Medicine, University of Angers, France, 2015
+* Ph.D. in Computer Science, [Cardiff University](https://www.cardiff.ac.uk/){:target="_blank"}, United Kingdom, 2019
+* M.Sc. in Signals and Images in Biology and Medicine, [University of Angers](https://www.univ-angers.fr/en/){:target="_blank"}, France, 2015
 * M.Eng. in Applied Cognitive Science and Technology, [Bordeaux INP](https://ensc.bordeaux-inp.fr/fr){:target="_blank"}, France, 2015
 * B.Eng. in Applied Cognitive Science and Technology, [Bordeaux INP](https://ensc.bordeaux-inp.fr/fr){:target="_blank"}, France, 2013
 <br />
