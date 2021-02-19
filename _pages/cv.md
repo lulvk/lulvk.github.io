@@ -24,7 +24,7 @@ Xi'an Jiaotong-Liverpool University, Suzhou, China
 Academic leadership
 ======
 * Leader of Qualinet Task Force 3: Quality of Experience in Medical Imaging and Healthcare, 2017-2020
-* Vice Chair of Quality Assessment for Health Applications, Video Quality Experts Group (VQEG) group, 2020-2021
+* Vice Chair of Quality Assessment for Health Applications, Video Quality Experts Group (VQEG), 2020-2021
 <br />
 
 Education
