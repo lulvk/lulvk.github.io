@@ -7,7 +7,7 @@ author_profile: true
 
 ### Xi'an Jiaotong-Liverpool University (2019) <br />
 * Co-module leader (500 students) of Introduction to Database Management Systems (undergraduate)
-* Module leader of Human-Centric Computing (undergraduate)
+* Module leader of [Human-Centric Computing](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=CSE214){:target="_blank"} (undergraduate)
 
 ### Cardiff University (2017-2018) <br />
 * Teaching assistant and guest lecturer for [Data Processing and Visualisation](https://data.cardiff.ac.uk/legacy/grails/module/CM2105/18A.html){:target="_blank"} (undergraduate)
