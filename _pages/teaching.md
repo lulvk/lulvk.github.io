@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Xi'an Jiaotong University (2019) <br />
+### Xi'an Jiaotong-Liverpool University (2019) <br />
 * Co-module leader (500 students) of Introduction to Database Management Systems (undergraduate)
 * Module leader of Human-Centric Computing (undergraduate)
 
