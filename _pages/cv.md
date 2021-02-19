@@ -50,8 +50,8 @@ Languages
 Scholarship and awards
 =====
 *	[Medical Image Perception Society](http://mips.synchrosystems.com/){:target="_blank"} scholar award to present at MIPS XVIII conference, USA, 2019
-*	EPSRC Image Guided Therapy Network+ ECR travel grant to present at IGT+ workshop, United Kingdom, 2018
+*	[EPSRC Image Guided Therapy Network+](https://gtr.ukri.org/projects?ref=EP%2FN027078%2F1){:target="_blank"} ECR travel grant to present at IGT+ workshop, United Kingdom, 2018
 *	Invitation to participate and present at the First International Innovation Youth conference, China, 2017
-*	IEEE Signal Processing Society student travel grant to present at MMSP, United Kingdom, 2017
+*	[IEEE Signal Processing Society](https://signalprocessingsociety.org/){:target="_blank"} student travel grant to present at MMSP, United Kingdom, 2017
 *	[Medical Image Perception Society](http://mips.synchrosystems.com/){:target="_blank"} student scholar award to present at MIPS XVII conference, USA, 2017
 *	Three-year University-funded PhD scholarship, 2015
