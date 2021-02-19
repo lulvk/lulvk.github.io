@@ -35,21 +35,23 @@ Education
 * B.Eng. in Applied Cognitive Science and Technology, Bordeaux INP, France, 2013
 <br />
 
+Programming and office automation
+======
+* C#, Python, HTML, CSS, PHP, MySQL, MATLAB, R, SPSS
+* Microsoft Office, GanttProject, XMind, MindManager, Visual Studio, Visual Basic
+<br />
+
 Languages
 ======
 * French: mother tongue
 * English: advanced level C2
 * Spanish: higher intermediate level B2
 
-<!--SCHOLARSHIPS AND AWARDS
-
-·	Medical Image Perception Society (MIPS) scholar award to present at MIPS XVIII conference in Salt Lake City, USA, July 2019.
-·	EPSRC Image Guided Therapy Network+ (IGT+) Early Career Researcher travel grant to present at IGT+ Workshop in London, United Kingdom, June 2018.
-·	Invitation to participate and present at the First International Innovation Youth conference in Shenzhen, China, August 2017.
-·	IEEE Signal Processing Society (SPS) student travel grant to present at MMSP in Luton, United Kingdom, October 2017.
-·	MIPS student scholar award to present at MIPS XVII conference in Houston, USA, July 2017.
-·	Three-year University-funded PhD scholarship, October 2015.
-
-PROGRAMMING AND OFFICE AUTOMATION
-·	C#, C++, Python, HTML, CSS, PHP, MySQL, MATLAB, R, SPSS.
-·	Microsoft Office, GanttProject, XMind, MindManager, Visual Studio, Visual Basic.-->
+Scholarship and awards
+=====
+*	Medical Image Perception Society (MIPS) scholar award to present at MIPS XVIII conference in Salt Lake City, USA, 2019
+*	EPSRC Image Guided Therapy Network+ Early Career Researcher travel grant to present at IGT+ Workshop in London, United Kingdom, 2018
+*	Invitation to participate and present at the First International Innovation Youth conference in Shenzhen, China, 2017
+*	IEEE Signal Processing Society student travel grant to present at MMSP in Luton, United Kingdom, 2017
+*	MIPS student scholar award to present at MIPS XVII conference in Houston, USA, 2017
+*	Three-year University-funded PhD scholarship, 2015
