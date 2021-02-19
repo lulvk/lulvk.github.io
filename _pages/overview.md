@@ -4,8 +4,8 @@ title: Overview
 excerpt: About me
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /overview/
+  - /overview.html
 published: true
 ---
 I am a research fellow with the Laboratory of Ergonomics and Cognitive Science applied to Transport, [Gustave Eiffel University](https://www.univ-gustave-eiffel.fr/en/){:target="_blank"}, Lyon, France. My research interests include visual perception and attention, human-computer interaction, and medical imaging.
