@@ -13,11 +13,11 @@ published: true
 Work experience
 ======
 ### Research Fellow (from March 2020 to date) <br />
-Laboratory of Ergonomics and Cognitive Science applied to Transport <br />
+Laboratory of Ergonomics and Cognitive Science applied to Transport ([LESCOT](https://lescot.univ-gustave-eiffel.fr/)) <br />
 Université Gustave Eiffel, Lyon, France
 
 ### Research Fellow / Lecturer (from February to December 2019) <br />
-School of Advanced Technology <br />
+School of Advanced Technology ([SAT](https://www.xjtlu.edu.cn/en/study/departments/school-of-advanced-technology/)) <br />
 Xi'an Jiaotong-Liverpool University, Suzhou, China  
 <br />
 
