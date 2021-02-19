@@ -17,7 +17,7 @@ author_profile: true
 Student supervision
 =====
 
-### Xi'an Jiaotong University (2019) <br />
+### Xi'an Jiaotong-Liverpool University (2019) <br />
 * Principal supervisor of four final year student projects
 * Principal supervisor of two MSc student projects
 
