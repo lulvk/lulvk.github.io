@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ### Xi'an Jiaotong University (2019) <br />
-* Co-module leader (500 students) of Introduction to Database Management Systems (undergraduate year 1)
-* Module leader of Human-Centric Computing (undergraduate year 2)
+* Co-module leader (500 students) of Introduction to Database Management Systems (undergraduate)
+* Module leader of Human-Centric Computing (undergraduate)
 
 ### Cardiff University (2017-2018) <br />
-* Teaching assistant and guest lecturer for [Data Processing and Visualisation with iPython](https://data.cardiff.ac.uk/legacy/grails/module/CM2105/18A.html){:target="_blank"} (undergraduate)
+* Teaching assistant and guest lecturer for [Data Processing and Visualisation](https://data.cardiff.ac.uk/legacy/grails/module/CM2105/18A.html){:target="_blank"} (undergraduate)
 * Teaching assistant and guest lecturer for Human-Centric Computing (postgraduate)
 
 
