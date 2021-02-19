@@ -23,8 +23,8 @@ School of Advanced Technology ([SAT](https://www.xjtlu.edu.cn/en/study/departmen
 
 Academic leadership
 ======
-* Leader of Qualinet Task Force 3: Quality of Experience in Medical Imaging and Healthcare, 2017-2020
-* Vice Chair of Quality Assessment for Health Applications, Video Quality Experts Group (VQEG), 2020-2021
+* Leader of [Qualinet Task Force 3](http://www.qualinet.eu/index.php?option=com_content&view=article&id=46&Itemid=53){:target="_blank"}: Quality of Experience in Medical Imaging and Healthcare, 2017-2020
+* Vice Chair of [Quality Assessment for Health Applications](https://www.its.bldrdoc.gov/vqeg/projects/quality-assessment-for-health-applications-qah.aspx){:target="_blank"}, Video Quality Experts Group (VQEG), 2020-2021
 <br />
 
 Education
