@@ -49,9 +49,9 @@ Languages
 
 Scholarship and awards
 =====
-*	Medical Image Perception Society (MIPS) scholar award to present at MIPS XVIII conference in Salt Lake City, USA, 2019
-*	EPSRC Image Guided Therapy Network+ Early Career Researcher travel grant to present at IGT+ Workshop in London, United Kingdom, 2018
-*	Invitation to participate and present at the First International Innovation Youth conference in Shenzhen, China, 2017
-*	IEEE Signal Processing Society student travel grant to present at MMSP in Luton, United Kingdom, 2017
-*	MIPS student scholar award to present at MIPS XVII conference in Houston, USA, 2017
+*	Medical Image Perception Society scholar award to present at MIPS XVIII conference, USA, 2019
+*	EPSRC Image Guided Therapy Network+ Early Career Researcher travel grant to present at IGT+ workshop, United Kingdom, 2018
+*	Invitation to participate and present at the First International Innovation Youth conference, China, 2017
+*	IEEE Signal Processing Society student travel grant to present at MMSP, United Kingdom, 2017
+*	Medical Image Perception Society student scholar award to present at MIPS XVII conference, USA, 2017
 *	Three-year University-funded PhD scholarship, 2015
