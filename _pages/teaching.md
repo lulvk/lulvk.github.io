@@ -11,7 +11,7 @@ author_profile: true
 
 ### Cardiff University (2017-2018) <br />
 * Teaching assistant and guest lecturer for [Data Processing and Visualisation](https://data.cardiff.ac.uk/legacy/grails/module/CM2105/18A.html){:target="_blank"} (undergraduate)
-* Teaching assistant and guest lecturer for Human-Centric Computing (postgraduate)
+* Teaching assistant and guest lecturer for Human-Centric Computing (postgraduate) <br />
 
 
 Student supervision
