@@ -10,7 +10,7 @@ author_profile: true
 * Module leader of Human-Centric Computing (undergraduate year 2)
 
 ### Cardiff University (2017-2018) <br />
-* Teaching assistant and guest lecturer for [Data Processing and Visualisation with iPython](https://data.cardiff.ac.uk/legacy/grails/module/CM2105/18A.html) (undergraduate)
+* Teaching assistant and guest lecturer for [Data Processing and Visualisation with iPython](https://data.cardiff.ac.uk/legacy/grails/module/CM2105/18A.html){:target="_blank"} (undergraduate)
 * Teaching assistant and guest lecturer for Human-Centric Computing (postgraduate)
 
 
