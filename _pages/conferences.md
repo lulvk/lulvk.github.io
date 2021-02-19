@@ -26,7 +26,8 @@ W. Zhang, W. Zou, F. Yang, **L. Lévêque**, and H. Liu, [The effect of spatio-t
 
 **L. Lévêque**, C. Cavaro-Ménard, P. Le Callet, Y. Cheng, and H. Liu, [Video quality perception in telesurgery](https://ieeexplore.ieee.org/document/8122219){:target="_blank"}, _19th IEEE International Workshop on Multimedia Signal Processing (MMSP), Luton, United Kingdom_, October 2017.
 <br />
-<br />
+
+
 Other conference and workshop abstracts and presentations
 ==
 
