@@ -13,6 +13,7 @@ author_profile: true
 * Teaching assistant and guest lecturer for Data Processing and Visualisation with iPython (undergraduate)
 * Teaching assistant and guest lecturer for Human-Centric Computing (postgraduate)
 
+
 Student supervision
 =====
 
