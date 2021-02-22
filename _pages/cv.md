@@ -9,7 +9,7 @@ published: true
 ---
 {% include base_path %}
 
-_My full resume can also be found [here](/files/LEVEQUE CV.pdf){:target="_blank"}._ <br />
+My full resume can be found [here](/files/LEVEQUE CV.pdf){:target="_blank"}. <br />
 <br />
 
 Work experience
