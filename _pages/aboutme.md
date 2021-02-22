@@ -20,6 +20,8 @@ Taiwan, United Kingdom, United States. Follow the link to [my travel blog](https
 
 On my **bucket list?** Australia, Brazil, Croatia, Mauritius, Namibia, New Zealand, Oman, Tanzania...
 
+![Jacques Cartier](/images/Cartier.jpg "Parc National de la Jacques-Cartier, Québec, Canada")
+
 
 Sports
 ====
