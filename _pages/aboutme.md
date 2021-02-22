@@ -29,6 +29,8 @@ But I like cycling, dancing, and horse riding as well. I have recently started b
 
 What's **next**? Downhill moutain biking in the Alps (Spring or Summer 2021)!
 
+![Via ferrata](Via.jpg "Via ferrata")
+
 
 And to decompress?
 ====
