@@ -1,14 +1,15 @@
 ---
 layout: archive
-title: 
+title: My resume
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 published: true
 ---
-
 {% include base_path %}
+
+You can also download my full CV [here](/files/LEVEQUE CV.pdf).
 
 Work experience
 ======
