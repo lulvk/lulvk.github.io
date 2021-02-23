@@ -20,7 +20,7 @@ Taiwan, United Kingdom, United States.
 
 On my **bucket list?** Australia, Brazil, Croatia, Mauritius, Namibia, New Zealand, Oman, Tanzania...
 
-![Jacques Cartier](/images/Cartier.JPG "Parc National de la Jacques-Cartier, Québec, Canada")
+![Jacques Cartier](/images/Cartier.JPG =250x)
 
 
 Sports
@@ -31,7 +31,7 @@ But I like cycling, dancing, and horse riding as well. I have recently started b
 
 What's **next**? Downhill moutain biking in the Alps (Spring or Summer 2021)!
 
-![Via ferrata](/images/Via.jpg "Via ferrata, Xianju, China")
+![Via ferrata](/images/Via.jpg =250x)
 
 
 And to decompress?
