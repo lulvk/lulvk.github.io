@@ -16,7 +16,3 @@ Videos
 * Cardiff University Doctoral Academy, 2018: [Three Minute Thesis (3MT)](https://www.youtube.com/watch?v=9BC0X_q5pkA&t=15s&ab_channel=CardiffUniversityDoctoralAcademy){:target="_blank"}
 
 * FameLab France, 2015: [La télémédecine, késako ?](https://www.youtube.com/watch?v=tIeRykGOekU&t=20s&ab_channel=FameLabFrance){:target="_blank"}
-
-Pictures
-=====
-
