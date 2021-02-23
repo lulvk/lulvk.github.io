@@ -22,3 +22,4 @@ Pictures
 =====
 
 Xi'an Jiaotong-Liverpool University, 2019:
+<p style="text-align:center;"><img src="/images/XJTLU.jpg" alt="XJTLU" width="500"></p>
