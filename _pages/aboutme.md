@@ -22,7 +22,11 @@ On my **bucket list?** Australia, Brazil, Croatia, Mauritius, Namibia, New Zeala
 
 <!--<img src="/images/Cartier.JPG" alt="Jacques Cartier" width="500" class="center">-->
 
-<p style="text-align:center;"><img src="/images/Cartier.JPG" alt="Jacques Cartier" width="600"></p>
+<!--<p style="text-align:center;"><img src="/images/Cartier.JPG" alt="Jacques Cartier" width="600"></p>-->
+
+<p align="center">
+  <img src="/images/Cartier.JPG" />
+</p>
 
 Sports
 ====
