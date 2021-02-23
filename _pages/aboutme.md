@@ -20,7 +20,8 @@ Taiwan, United Kingdom, United States.
 
 On my **bucket list?** Australia, Brazil, Croatia, Mauritius, Namibia, New Zealand, Oman, Tanzania...
 
-![Jacques Cartier](/images/Cartier.JPG)
+<!--![Jacques Cartier](/images/Cartier.JPG)-->
+<img src="/images/Cartier.JPG" alt="Jacques Cartier" width="200"/>
 
 
 Sports
