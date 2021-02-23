@@ -21,7 +21,6 @@ Taiwan, United Kingdom, United States.
 On my **bucket list?** Australia, Brazil, Croatia, Mauritius, Namibia, New Zealand, Oman, Tanzania...
 
 <p style="text-align:center;"><img src="/images/Cartier.JPG" alt="Jacques Cartier" width="550"></p>
-<br />
 
 Sports
 ====
