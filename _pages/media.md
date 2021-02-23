@@ -5,14 +5,18 @@ permalink: /media/
 author_profile: true
 ---
 
-L'association des Diplômés en Cognitique (ADCOG), 2020 : [Témoignage, Lucie la globe-trotteuse](http://adcog.fr/blog/114-temoignage-lucie-la-globe-trotteuse){:target="_blank"}
+* L'association des Diplômés en Cognitique (ADCOG), 2020 : [Témoignage, Lucie la globe-trotteuse](http://adcog.fr/blog/114-temoignage-lucie-la-globe-trotteuse){:target="_blank"}
 
-Cardiff University, 2018: [PhD tips from Doctoral Champion, Lucie Lévêque, School of Computer Science and Informatics](https://www.cardiff.ac.uk/study/postgraduate/research/student-views-and-stories/phd-tips-from-doctoral-champion,-lucie-leveque,-school-of-computer-science-and-informatics){:target="_blank"}
+* Cardiff University, 2018: [PhD tips from Doctoral Champion, Lucie Lévêque, School of Computer Science and Informatics](https://www.cardiff.ac.uk/study/postgraduate/research/student-views-and-stories/phd-tips-from-doctoral-champion,-lucie-leveque,-school-of-computer-science-and-informatics){:target="_blank"}
 <br />
 
 Videos
 =====
 
-Cardiff University Doctoral Academy, 2018: [Three Minute Thesis (3MT)](https://www.youtube.com/watch?v=9BC0X_q5pkA&t=15s&ab_channel=CardiffUniversityDoctoralAcademy){:target="_blank"}
+* Cardiff University Doctoral Academy, 2018: [Three Minute Thesis (3MT)](https://www.youtube.com/watch?v=9BC0X_q5pkA&t=15s&ab_channel=CardiffUniversityDoctoralAcademy){:target="_blank"}
 
-FameLab France, 2015: [La télémédecine, késako ?](https://www.youtube.com/watch?v=tIeRykGOekU&t=20s&ab_channel=FameLabFrance){:target="_blank"}
+* FameLab France, 2015: [La télémédecine, késako ?](https://www.youtube.com/watch?v=tIeRykGOekU&t=20s&ab_channel=FameLabFrance){:target="_blank"}
+
+Pictures
+=====
+
