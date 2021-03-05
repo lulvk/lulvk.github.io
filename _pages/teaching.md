@@ -17,6 +17,10 @@ author_profile: true
 Student supervision
 =====
 
+### INSA Rennes (2021) <br />
+* Principal supervisor of MEng student projects
+* Co-supervisor of MEng student projects
+
 ### Xi'an Jiaotong-Liverpool University (2019) <br />
 * Principal supervisor of four final year student projects
 * Principal supervisor of two MSc student projects
