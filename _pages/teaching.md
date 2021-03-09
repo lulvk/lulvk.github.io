@@ -17,7 +17,7 @@ author_profile: true
 Student supervision
 =====
 
-### INSA Rennes (2021) <br />
+### National Institute of Applied Sciences (INSA) Rennes (2021) <br />
 * Principal supervisor of 4 MEng students on a research project (external HMIs for automated vehicles)
 * Co-supervisor of 4 MEng students on a research project (medical image quality assessment)
 
