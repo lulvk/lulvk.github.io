@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
+
+Breaking news (March 2021)! I received the French qualification to become a University Lecturer.
+
+
+Teaching
+=====
 
 ### Xi'an Jiaotong-Liverpool University (2019) <br />
 * Co-module leader (500 students) of [Introduction to Database Management Systems](http://modules.xjtlu.edu.cn/mod?mod_code=CPT103){:target="_blank"} (undergraduate)
