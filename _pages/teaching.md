@@ -18,8 +18,8 @@ Student supervision
 =====
 
 ### INSA Rennes (2021) <br />
-* Principal supervisor of MEng student projects
-* Co-supervisor of MEng student projects
+* Principal supervisor of 4 MEng students on a research project on interactions between pedestrians and automated vehicles
+* Co-supervisor of 4 MEng students on a research project on medical image quality assessment
 
 ### Xi'an Jiaotong-Liverpool University (2019) <br />
 * Principal supervisor of four final year student projects
