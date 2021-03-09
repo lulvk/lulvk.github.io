@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 Breaking news (March 2021)! I received the French [qualification](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/CNU_qualification.htm){:target="_blank"} to become a University Lecturer.
-
+<br />
+<br />
 
 Teaching
 =====
