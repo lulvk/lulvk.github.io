@@ -18,8 +18,8 @@ Student supervision
 =====
 
 ### National Institute of Applied Sciences (INSA) Rennes (2021) <br />
-* Principal supervisor of 4 MEng students on a research project (external HMIs for automated vehicles)
-* Co-supervisor of 4 MEng students on a research project (medical image quality assessment)
+* Principal supervisor of four MEng students on a research project (external HMIs for automated vehicles)
+* Co-supervisor of four MEng students on a research project (medical image quality assessment)
 
 ### Xi'an Jiaotong-Liverpool University (2019) <br />
 * Principal supervisor of four final year student projects
