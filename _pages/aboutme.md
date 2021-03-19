@@ -5,7 +5,7 @@ permalink: /aboutme/
 author_profile: true
 ---
 
-I am a 28-year old (soon 29!) French woman.
+I am a 29-year old French woman.
 
 
 Traveling
