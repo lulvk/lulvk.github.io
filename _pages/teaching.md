@@ -30,7 +30,6 @@ Student supervision
 
 ### Xi'an Jiaotong-Liverpool University (2019) <br />
 * Principal supervisor of four final year student projects
-* Principal supervisor of two MSc student projects
 
 ### Cardiff University (2017-2018) <br />
 * Co-supervisor of two final year student projects with PhD supervisor
