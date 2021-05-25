@@ -14,7 +14,11 @@ My full resume can be found [here](/files/LEVEQUE CV.pdf){:target="_blank"}. <br
 
 Work experience
 ======
-### Research Fellow (from March 2020 to date) <br />
+### Lecturer (from June 2021 to date) <br />
+Ecole Polytechnique de Nantes ([Polytech](https://polytech.univ-nantes.fr/en){:target="_blank"}) <br />
+[University of Nantes](https://english.univ-nantes.fr/){:target="_blank"}, France
+
+### Research Fellow (from March 2020 to June 2021) <br />
 Laboratory of Ergonomics and Cognitive Science applied to Transport ([LESCOT](https://lescot.univ-gustave-eiffel.fr/){:target="_blank"}) <br />
 [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/en/){:target="_blank"}, Lyon, France
 
