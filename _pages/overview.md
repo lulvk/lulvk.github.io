@@ -8,7 +8,7 @@ redirect_from:
   - /overview.html
 published: true
 ---
-I am a research fellow with the Laboratory of Ergonomics and Cognitive Science applied to Transport, [Gustave Eiffel University](https://www.univ-gustave-eiffel.fr/en/){:target="_blank"}, Lyon, France. My research interests include visual perception and attention, human-computer interaction, and medical imaging.
+I am a Lecturer with Polytech Nantes, [University of Nantes](https://www.univ-nantes.fr/){:target="_blank"}, in France. My research interests include visual perception and attention, human-computer interaction, and medical imaging.
 
 I received the M.Eng. degree in cognitive engineering from the National Superior School of Cognitics, Bordeaux, France, in 2015, the M.Sc. degree in biomedical imaging from the University of Angers, France, in 2015, and the Ph.D. degree from the [School of Computer Science and Engineering](https://www.cardiff.ac.uk/computer-science){:target="_blank"}, Cardiff University, United Kingdom, in 2019.
 
