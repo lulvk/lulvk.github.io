@@ -11,6 +11,8 @@ Breaking news (March 2021): I received the French [qualification](https://www.ga
 
 Teaching
 =====
+### Polytech Nantes (2021) <br />
+* From next September
 
 ### Xi'an Jiaotong-Liverpool University (2019) <br />
 * Co-module leader (500 students) of [Introduction to Database Management Systems](http://modules.xjtlu.edu.cn/mod?mod_code=CPT103){:target="_blank"} (undergraduate)
