@@ -28,7 +28,7 @@ Sports
 ... is also something I am keen on: **swimming** and **hiking** are probably among my favourite. <br />
 But I like cycling, dancing, and horse riding as well. I have recently started bouldering (indoors) and climbing (_via ferrata_).
 
-What's **next**? Downhill moutain biking in the Alps (Spring or Summer 2021)!
+What else? I tried downhill (DH) moutain biking in the Alps in Spring 2021!
 
 <p style="text-align:center;"><img src="/images/Via.jpg" alt="Via ferrata" width="550"></p>
 
