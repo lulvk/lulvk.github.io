@@ -14,9 +14,7 @@ Traveling
 ... has been my greatest passion for ten years. I want to keep a childlike sense of wonder about the world. <br />
 There is always something new to learn, always something wonderful to discover and to explore.
 
-**Countries I have visited**: Belgium, Cape Verde, Canada, China, Cuba, Czech Republic, France, Germany, Ghana, Greece, <br />
-Hong Kong, Iceland, Indonesia, Iran, Ireland, Italy, Macao, Morocco, Netherlands, Norway, Portugal, Scotland, Spain, <br />
-Taiwan, United Kingdom, United States.
+**Countries I have visited**: Belgium, Cape Verde, Canada, China, Cuba, Czech Republic, France, Germany, Ghana, Greece, Hong Kong, Iceland, Indonesia, Iran, Ireland, Italy, Macao, Morocco, Netherlands, Norway, Portugal, Scotland, Spain, Taiwan, United Kingdom, United States.
 
 On my **bucket list?** Australia, Brazil, Croatia, Mauritius, Namibia, New Zealand, Oman, Tanzania...
 
