@@ -8,7 +8,7 @@ published: true
 
 R. Rodrigues, **L. Lévêque**, J. Gutiérrez, H. Jebbari, M. Outtas, L. Zhang, A. Chetouani, N. Barman, and A. Pinheiro, "Objective quality assessment of medical image and video: Review and challenges”, _In writing for submission to IEEE Journal of Biomedical and Health Informatics_, June 2021.
 
-**L. Lévêque**, M. Outtas, H. Liu, and L. Zhang, Comparative study of the methodologies used for medical image quality assessment, _Submitted to Physics in Medicine & Biology_, June 2021.
+**L. Lévêque**, M. Outtas, H. Liu, and L. Zhang, Comparative study of the methodologies used for medical image quality assessment, _Physics in Medicine & Biology_, https://doi.org/10.1088/1361-6560/ac1157, July 2021.
 
 M. Jaussein, **L. Lévêque**, J. Deniel, T. Bellet, H. Tattegrain, and C. Marin-Lamellet, "How do non-driving-related tasks affect engagement under highly automated driving situations? A literature review", _Submitted to Frontiers in Future Transportation_, June 2021.
 
