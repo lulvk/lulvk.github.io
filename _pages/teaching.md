@@ -14,7 +14,7 @@ Teaching
 ### Polytech Nantes (2021) <br />
 * Multimedia Signals (Electronics and Digital Technologies department)
 * Digital Methods (Electronics and Digital Technologies department)
-* Virtual Reality (Digital Cultures Master)
+* Virtual Reality ([Digital Cultures Master](https://mcn.univ-nantes.fr/){:target="_blank"})
 * Perceptual Computing ([Visual Computing Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/visual-computing-masters-degree-vico){:target="_blank"})
 
 ### Xi'an Jiaotong-Liverpool University (2019) <br />
