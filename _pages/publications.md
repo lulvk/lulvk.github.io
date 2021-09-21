@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-R. Rodrigues, **L. Lévêque**, J. Gutiérrez, H. Jebbari, M. Outtas, L. Zhang, A. Chetouani, S. Al-Juboori, M. Martini, and A. Pinheiro, Objective quality assessment of medical image and video: Review and challenges, _In writing for submission to IEEE Journal of Biomedical and Health Informatics_, September 2021.
+R. Rodrigues, **L. Lévêque**, J. Gutiérrez, H. Jebbari, M. Outtas, L. Zhang, A. Chetouani, S. Al-Juboori, M. Martini, and A. Pinheiro, Objective quality assessment of medical image and video: Review and challenges, _In writing for submission to IEEE Journal of Biomedical and Health Informatics_, October 2021.
 
 **L. Lévêque**, M. Outtas, H. Liu, and L. Zhang, [Comparative study of the methodologies used for medical image quality assessment](https://doi.org/10.1088/1361-6560/ac1157){:target="_blank"}, _Physics in Medicine & Biology_, vol. 66, July 2021.
 
