@@ -12,6 +12,7 @@ Teaching
 * Multimedia Signals ([Electronics and Digital Technologies department](https://polytech.univ-nantes.fr/fr/les-formations/cycle-ingenieur/ingenieur-electronique-et-technologies-numeriques){:target="_blank"})
 * Digital Methods ([Electronics and Digital Technologies department](https://polytech.univ-nantes.fr/fr/les-formations/cycle-ingenieur/ingenieur-electronique-et-technologies-numeriques){:target="_blank"})
 * Virtual Reality ([Digital Cultures Master](https://mcn.univ-nantes.fr/){:target="_blank"})
+* Human Computer Interaction ([Visual Computing Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/visual-computing-masters-degree-vico){:target="_blank"})
 * Perceptual Computing ([Visual Computing Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/visual-computing-masters-degree-vico){:target="_blank"})
 
 ### Xi'an Jiaotong-Liverpool University (2019) <br />
