@@ -9,9 +9,8 @@ author_profile: true
 Teaching
 =====
 ### Polytech Nantes (2021) <br />
-* Multimedia Signals ([Electronics and Digital Technologies department](https://polytech.univ-nantes.fr/fr/les-formations/cycle-ingenieur/ingenieur-electronique-et-technologies-numeriques){:target="_blank"})
 * Digital Methods ([Electronics and Digital Technologies department](https://polytech.univ-nantes.fr/fr/les-formations/cycle-ingenieur/ingenieur-electronique-et-technologies-numeriques){:target="_blank"})
-* Virtual Reality ([Digital Cultures Master](https://mcn.univ-nantes.fr/){:target="_blank"})
+* Virtual Reality Experience ([Digital Cultures Master](https://mcn.univ-nantes.fr/){:target="_blank"})
 * Human Computer Interaction ([Visual Computing Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/visual-computing-masters-degree-vico){:target="_blank"})
 * Perceptual Computing ([Visual Computing Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/visual-computing-masters-degree-vico){:target="_blank"})
 
@@ -26,6 +25,11 @@ Teaching
 
 Student supervision
 =====
+
+### Polytech Nantes (2021) <br />
+* Principal supervisor of two MEng students on a technical project (adversarial attacks)
+* Principal supervisor of two MEng students on a technical project (image compression)
+* Co-supervisor of different Master studients within the [Design Factory](https://www.ouestindustriescreatives.fr/formation-innovante/challenges-expe-design-factory/design-factory-nantes/){:target="_blank"} 
 
 ### National Institute of Applied Sciences (INSA) Rennes (2021) <br />
 * Principal supervisor of four MEng students on a research project (external HMIs for automated vehicles)
