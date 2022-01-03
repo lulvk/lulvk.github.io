@@ -30,7 +30,6 @@ Academic leadership
 * Vice Chair of [Quality Assessment for Health Applications](https://www.its.bldrdoc.gov/vqeg/projects/quality-assessment-for-health-applications-qah.aspx){:target="_blank"}, Video Quality Experts Group (VQEG), 2020 to date
 * Leader of [Qualinet Task Force 3](http://www.qualinet.eu/index.php?option=com_content&view=article&id=46&Itemid=53){:target="_blank"}: Quality of Experience in Medical Imaging and Healthcare, 2017-2020
 <br />
-<br />
 
 Education
 ======
