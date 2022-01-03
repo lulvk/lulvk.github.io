@@ -14,14 +14,9 @@ My full resume can be found [here in English](/files/LEVEQUE_CV_Eng.pdf){:target
 
 Work experience
 ======
-### Lecturer (from June 2021 to date) <br />
-[Nantes University](https://english.univ-nantes.fr/){:target="_blank"}, Nantes, France
-
-### Research Fellow (from March 2020 to June 2021) <br />
-[Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/en/){:target="_blank"}, Lyon, France
-
-### Research Fellow / Lecturer (from February to December 2019) <br />
-[Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/){:target="_blank"}, Suzhou, China  
+* Lecturer (from June 2021 to date), [Nantes University](https://english.univ-nantes.fr/){:target="_blank"}, Nantes, France
+* Research Fellow (from March 2020 to June 2021), [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/en/){:target="_blank"}, Lyon, France
+* Research Fellow / Lecturer (from February to December 2019), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/){:target="_blank"}, Suzhou, China 
 <br />
 
 Academic leadership
