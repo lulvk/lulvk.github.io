@@ -19,4 +19,4 @@ Breaking news
 ======
 
 * Call for papers: consider submitting your work at our [Emotion IMX workshop](https://emotionimx.ls2n.fr/){:target="_blank"}! 
-* Internship offers: 
+* Internship offers: consider joining the Image Perception Interaction team for your internship!
