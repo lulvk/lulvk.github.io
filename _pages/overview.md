@@ -14,9 +14,10 @@ I received the M.Eng. degree in cognitive engineering from the National Superior
 
 From 2017 to 2020, I was the leader of Qualinet task force 3: Quality of Experience (QoE) in medical imaging and healthcare. I am now vice chair of the Video Quality Experts Group (VQEG) on [Quality Assessment for Health Applications](https://www.its.bldrdoc.gov/vqeg/projects/quality-assessment-for-health-applications-qah.aspx){:target="_blank"}.
 </br>
+</br>
 
 Breaking news
 ======
 
 * Call for papers: consider submitting your work at our [Emotion IMX workshop](https://emotionimx.ls2n.fr/){:target="_blank"}! 
-* Internship offers: consider joining the Image Perception Interaction team for your internship!
+* Internship offers: consider joining the Image Perception Interaction team!
