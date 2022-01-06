@@ -19,4 +19,4 @@ Breaking news
 ======
 
 * Call for papers: consider submitting your work at our [Emotion IMX workshop](https://emotionimx.ls2n.fr/){:target="_blank"}! 
-* Internship offers: consider joining the Image Perception Interaction team!
+* Internship offers for Master students: [image compression](/files/Compression.pdf){:target="_blank"}, and [emotions and olfaction](/files/Olfaction.pdf){:target="_blank"}.
