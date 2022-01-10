@@ -18,5 +18,5 @@ From 2017 to 2020, I was the leader of Qualinet task force 3: Quality of Experie
 Breaking news
 ======
 
-* Call for papers: consider submitting your work at our [Emotion IMX workshop](https://emotionimx.ls2n.fr/){:target="_blank"}! 
+* Call for papers: consider submitting your work to our [Emotion IMX workshop](https://emotionimx.ls2n.fr/){:target="_blank"}! 
 * Internship offers for Master students: [image compression](/files/Compression.pdf){:target="_blank"}, and [emotions and olfaction](/files/Olfaction.pdf){:target="_blank"}.
