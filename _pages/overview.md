@@ -8,7 +8,7 @@ redirect_from:
   - /overview.html
 published: true
 ---
-I am a Postdoctoral Researcher with the [LS2N Laboratory](https://www.ls2n.fr/?lang=en){:target="_blank"} (Nantes Laboratory of Digital Sciences), [Polytech](https://polytech.univ-nantes.fr/en){:target="_blank"}, the [University of Nantes](https://www.english.univ-nantes.fr/){:target="_blank"}, France. My research interests include human-computer interaction (HCI), computer vision, visual perception and attention, and medical imaging.
+I am a Postdoctoral Researcher / Lecturer at the [LS2N Laboratory](https://www.ls2n.fr/?lang=en){:target="_blank"} (Nantes Laboratory of Digital Sciences), [Polytech](https://polytech.univ-nantes.fr/en){:target="_blank"}, the [University of Nantes](https://www.english.univ-nantes.fr/){:target="_blank"}, France. My research interests include human-computer interaction (HCI), computer vision, visual perception and attention, and medical imaging.
 
 I received the M.Eng. degree in cognitive engineering from the National Superior School of Cognitics, Bordeaux, France, in 2015, the M.Sc. degree in biomedical imaging from the University of Angers, France, in 2015, and the Ph.D. degree from the [School of Computer Science and Engineering](https://www.cardiff.ac.uk/computer-science){:target="_blank"}, Cardiff University, United Kingdom, in 2019.
 
