@@ -20,4 +20,3 @@ Breaking news
 
 * Call for papers! Consider submitting your work to our IEEE ICIP 2022 Special Session: [Quality assessment for medical imaging](/files/ICIP2022SS_Contributions.pdf){:target="_blank"}! 
 * Call for papers! Consider submitting your work to our ACM IMX 2022 Workshop: [Considering emotions in multimedia experience](https://emotionimx.ls2n.fr/){:target="_blank"}! 
-* Internship offers for Master students: [image compression](/files/Compression.pdf){:target="_blank"}, and [emotions and olfaction](/files/Olfaction.pdf){:target="_blank"}.
