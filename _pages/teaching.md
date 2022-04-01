@@ -29,7 +29,7 @@ Student supervision
 ### Polytech Nantes (2021) <br />
 * Principal supervisor of two MEng students on a technical project (adversarial attacks)
 * Principal supervisor of two MEng students on a technical project (image compression)
-* Co-supervisor of different Master studients within the [Design Factory](https://www.ouestindustriescreatives.fr/formation-innovante/challenges-expe-design-factory/design-factory-nantes/){:target="_blank"} 
+* Co-supervisor of different Master students within the [Design Factory](https://www.ouestindustriescreatives.fr/formation-innovante/challenges-expe-design-factory/design-factory-nantes/){:target="_blank"} 
 
 ### National Institute of Applied Sciences (INSA) Rennes (2021) <br />
 * Principal supervisor of four MEng students on a research project (external HMIs for automated vehicles)
