@@ -18,5 +18,5 @@ From 2017 to 2020, I was the leader of Qualinet task force 3: Quality of Experie
 Breaking news
 ======
 
-* Call for papers! Consider submitting your work to our IEEE ICIP 2022 Special Session: [Quality assessment for medical imaging](/files/ICIP2022SS_Contributions.pdf){:target="_blank"}! 
-* Call for papers! Consider submitting your work to our ACM IMX 2022 Workshop: [Considering emotions in multimedia experience](https://emotionimx.ls2n.fr/){:target="_blank"}! 
+* Our Special Session: [Quality assessment for medical imaging](/files/ICIP2022SS_Contributions.pdf){:target="_blank"} has been accepted and will take place at IEEE ICIP 2022 in Bordeaux, France, next October.
+* Our Workshop: [Considering emotions in multimedia experience](https://emotionimx.ls2n.fr/){:target="_blank"} has been accepted and will take place at ACM IMX 2022 in Aveiro, Portugal, next June.
