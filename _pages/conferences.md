@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-H. Jebbari, M. Outtas, **L. Lévêque**, and L. Zhang, Image quality assessment through detectiontask of COVID-19 pneumonia, _Submitted to the 29th IEEE International Conference on ImageProcessing (ICIP), Bordeaux, France_, February 2022.
+H. Jebbari, M. Outtas, **L. Lévêque**, and L. Zhang, Image quality assessment through detectiontask of COVID-19 pneumonia, _Submitted to the 29th IEEE International Conference on Image Processing (ICIP), Bordeaux, France_, February 2022.
 
 **L. Lévêque**, P. Young, and H. Liu, [Studying the gaze patterns of expert radiologists in screening mammography: A case study with Breast Test Wales](https://ieeexplore.ieee.org/document/9287678){:target="_blank"}, _28th European Signal Processing Conference (EUSIPCO), Online_, January 2021.
 
@@ -32,6 +32,8 @@ W. Zhang, W. Zou, F. Yang, **L. Lévêque**, and H. Liu, [The effect of spatio-t
 
 Other conference and workshop abstracts and presentations
 ==
+
+E. Sampaio, **L. Lévêque**, M. Perreira Da Silva, and P. Le Callet, Are facial expression recognition algorithms reliable in the context of interactive media? A new metric to analyse their performance, _EmotionIMX Workshop, ACM International Conference on Interactive Media Experiences (IMX), Aveiro, Portugal_, June 2022.
 
 M. Le Coz, **L. Lévêque**, M. Perreira Da Silva, and P. Le Callet, From olfaction to emotions: An interactive and immersive experience, _EmotionIMX Workshop, ACM International Conference on Interactive Media Experiences (IMX), Aveiro, Portugal_, June 2022.
 
