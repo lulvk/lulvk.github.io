@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "They talk about me"
