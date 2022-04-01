@@ -33,6 +33,8 @@ W. Zhang, W. Zou, F. Yang, **L. Lévêque**, and H. Liu, [The effect of spatio-t
 Other conference and workshop abstracts and presentations
 ==
 
+M. Le Coz, **L. Lévêque**, M. Perreira Da Silva, and P. Le Callet, From olfaction to emotions: An interactive and immersive experience, _EmotionIMX Workshop, ACM International Conference on Interactive Media Experiences (IMX), Aveiro, Portugal_, June 2022.
+
 A. Agossah, **L. Lévêque**, F. Krupa, G. Deconde, M. Perreira Da Silva, and P. Le Callet, Liens entre confiance et acceptabilité dans un dispositif d’IA, _33ème Conférence Francophone sur l’Interaction Homme-Machine (IHM), Namur, Belgium_, April 2022.
 
 **L. Lévêque**, H. Bosmans, L. Cockmartin, and H. Liu, Impact of expertise on reading mammograms: An eye-tracking study, _Medical Image Perception Society (MIPS) XVIII, Salt Lake City, Utah, United States of America_, July 2019.
