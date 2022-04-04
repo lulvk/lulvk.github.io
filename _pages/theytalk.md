@@ -5,16 +5,16 @@ permalink: /theytalk/
 author_profile: true
 ---
 
-They talk about me
+They talk about me...
 =====
-### Work related <br />
+### Professional <br />
 
 * Cardiff University: [PhD tips from doctoral champion Lucie Lévêque](https://www.cardiff.ac.uk/study/postgraduate/research/student-views-and-stories/phd-tips-from-doctoral-champion,-lucie-leveque,-school-of-computer-science-and-informatics){:target="_blank"}
 
 * XJTLU Master brochure:
-<p style="text-align:left;"><img src="/images/brochure.jpg" alt="XJTLU brochure" width="500"></p>
+<p style="text-align:left;"><img src="/images/brochure.jpg" alt="XJTLU brochure" width="600"></p>
 
-### Travel related <br />
+### Study <br />
 
 * ADCOG: [Témoignage : Lucie la globe-trotteuse](http://adcog.fr/blog/114-temoignage-lucie-la-globe-trotteuse){:target="_blank"}
 
