@@ -33,5 +33,5 @@ Education
 * B.Eng. in Applied Cognitive Science and Technology, [Bordeaux INP](https://ensc.bordeaux-inp.fr/fr){:target="_blank"}, France, 2013
 
 <br />
-My full resume can be found [here in English](/files/LEVEQUE_CV_Eng.pdf){:target="_blank"}, and [here in French](/files/LEVEQUE_CV_Fr.pdf){:target="_blank"}. <br />
+My full resume can be found [here](/files/LEVEQUE_CV_Eng.pdf){:target="_blank"} in PDF format. <br />
 
