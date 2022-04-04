@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Me, myself & I"
-permalink: /memyself/
+permalink: /aboutme/
 author_profile: true
 ---
 
