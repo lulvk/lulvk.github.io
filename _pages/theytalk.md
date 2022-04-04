@@ -17,6 +17,6 @@ They talk about me...
 
 ### En Français <br />
 
-* ADCOG : [Témoignage : Lucie la globe-trotteuse](http://adcog.fr/blog/114-temoignage-lucie-la-globe-trotteuse){:target="_blank"}
+* ADCOG (2020) : [Témoignage : Lucie la globe-trotteuse](http://adcog.fr/blog/114-temoignage-lucie-la-globe-trotteuse){:target="_blank"}
 
-* Ouest France : [Sarthois du bout du monde : Lucie étudie à Cardiff](https://www.ouest-france.fr/pays-de-la-loire/le-mans-72000/sarthois-du-bout-du-monde-lucie-etudie-cardiff-5652306){:target="_blank"}
+* Ouest France (2018) : [Sarthois du bout du monde : Lucie étudie à Cardiff](https://www.ouest-france.fr/pays-de-la-loire/le-mans-72000/sarthois-du-bout-du-monde-lucie-etudie-cardiff-5652306){:target="_blank"}
