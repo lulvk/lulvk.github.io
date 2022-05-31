@@ -6,8 +6,6 @@ author_profile: true
 published: true
 ---
 
-H. Jebbari, M. Outtas, **L. Lévêque**, and L. Zhang, Image quality assessment through detectiontask of COVID-19 pneumonia, _Submitted to the 29th IEEE International Conference on Image Processing (ICIP), Bordeaux, France_, February 2022.
-
 **L. Lévêque**, P. Young, and H. Liu, [Studying the gaze patterns of expert radiologists in screening mammography: A case study with Breast Test Wales](https://ieeexplore.ieee.org/document/9287678){:target="_blank"}, _28th European Signal Processing Conference (EUSIPCO), Online_, January 2021.
 
 **L. Lévêque**, T. Bellet, J-C. Bornard, J. Deniel, M. Ranchet, E. De Baere, and B. Richard, [Development of an immersive simulation platform to study interactions between automated vehicles and pedestrians](https://www.researchgate.net/publication/344418400_Development_of_an_Immersive_Simulation_Platform_to_Study_Interactions_Between_Automated_Vehicles_and_Pedestrians){:target="_blank"}, _4th International Conference on Computer-Human Interaction Research and Applications, Online_, pp. 249-254, November 2020.
