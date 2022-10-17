@@ -18,4 +18,4 @@ From 2017 to 2020, I was the leader of Qualinet task force 3: Quality of Experie
 Breaking news
 ======
 
-* I am part of the Organising Committee of [ACM IMX 2023](https://imx.acm.org/2023/){:target="_blank"}, which will be held in Nantes next June! 
+* I am part of the Organising Committee of [ACM IMX 2023](https://imx.acm.org/2023/){:target="_blank"}, which will be held in Nantes! 
