@@ -12,7 +12,7 @@ published: true
 
 Work experience
 ======
-* Postdoctoral Research (from June 2021 to June 2023), [Nantes Université](https://english.univ-nantes.fr/){:target="_blank"}, Nantes, France
+* Postdoctoral Researcher (from June 2021 to June 2023), [Nantes Université](https://english.univ-nantes.fr/){:target="_blank"}, Nantes, France
 * Research Fellow (from March 2020 to June 2021), [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/en/){:target="_blank"}, Lyon, France
 * Research Fellow (from February to December 2019), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/){:target="_blank"}, Suzhou, China 
 <br />
