@@ -8,7 +8,7 @@ author_profile: true
 
 Teaching
 =====
-### Polytech Nantes (2021-2022) <br />
+### Polytech Nantes (2021-2023) <br />
 * Human Computer Interaction ([Visual Computing Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/visual-computing-masters-degree-vico){:target="_blank"})
 * Perceptual Computing ([Visual Computing Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/visual-computing-masters-degree-vico){:target="_blank"})
 * Virtual Reality Experience ([Digital Cultures Master](https://mcn.univ-nantes.fr/){:target="_blank"})
