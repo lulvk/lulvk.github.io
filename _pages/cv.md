@@ -12,13 +12,14 @@ published: true
 
 Work experience
 ======
-* Lecturer (from June 2021 to date), [Nantes University](https://english.univ-nantes.fr/){:target="_blank"}, Nantes, France
+* Postdoctoral Research (from June 2021 to June 2023), [Nantes Université](https://english.univ-nantes.fr/){:target="_blank"}, Nantes, France
 * Research Fellow (from March 2020 to June 2021), [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/en/){:target="_blank"}, Lyon, France
 * Research Fellow (from February to December 2019), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/){:target="_blank"}, Suzhou, China 
 <br />
 
 Academic leadership
 ======
+* Web & Social Media chair of [ACM IMX 2023](https://imx.acm.org/2023/){:target="_blank"}
 * Chair of [ICIP 2022](https://2022.ieeeicip.org/){:target="_blank"} Special Session: Quality Assessment for Medical Imaging
 * Chair of ACM IMX 2022 Workshop: [Emotion IMX](https://emotionimx.ls2n.fr/){:target="_blank"}
 * Vice Chair of [Quality Assessment for Health Applications](https://www.its.bldrdoc.gov/vqeg/projects/quality-assessment-for-health-applications-qah.aspx){:target="_blank"}, Video Quality Experts Group (VQEG), 2020 to date
