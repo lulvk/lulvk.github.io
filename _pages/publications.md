@@ -6,9 +6,9 @@ author_profile: true
 published: true
 ---
 
-**L. Lévêque**, F. Villoteau, E. Sampaio, M. Perreira Da Silva, and P. Le Callet, Comparing the robustness of humans and deep neural networks on facial expression recognition, _Submitted to Electronics_, November 2022.
+R. Rodrigues, **L. Lévêque**, J. Gutierrez, H. Jebbari, M. Outtas, L. Zhang, A. Chetouani, S. Al-Juboori, M. Martini, and A. Pinheiro, Objective quality assessment of medical images and videos: Review and challenges, _Submitted to SPIE Journal of Medical Imaging_, December 2022.
 
-R. Rodrigues, **L. Lévêque**, J. Gutierrez, H. Jebbari, M. Outtas, L. Zhang, A. Chetouani, S. Al-Juboori, M. Martini, and A. Pinheiro, Objective quality assessment of medical images and videos: Review and challenges, _Submitted to IEEE Reviews in Biomedical Engineering_, November 2022.
+**L. Lévêque**, F. Villoteau, E. Sampaio, M. Perreira Da Silva, and P. Le Callet, Comparing the robustness of humans and deep neural networks on facial expression recognition, _Accepted for publication in Electronics_, December 2022.
 
 **L. Lévêque**, M. Outtas, H. Liu, and L. Zhang, [Comparative study of the methodologies used for medical image quality assessment](https://doi.org/10.1088/1361-6560/ac1157){:target="_blank"}, _Physics in Medicine & Biology_, vol. 66, July 2021.
 
