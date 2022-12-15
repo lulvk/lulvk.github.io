@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-R. Rodrigues, **L. Lévêque**, J. Gutierrez, H. Jebbari, M. Outtas, L. Zhang, A. Chetouani, S. Al-Juboori, M. Martini, and A. Pinheiro, Objective quality assessment of medical images and videos: Review and challenges, _Submitted to Multimedia Tools and Applications_, December 2022.
+R. Rodrigues, **L. Lévêque**, J. Gutierrez, H. Jebbari, M. Outtas, L. Zhang, A. Chetouani, S. Al-Juboori, M. Martini, and A. Pinheiro, [Objective quality assessment of medical images and videos: Review and challenges](https://arxiv.org/abs/2212.07396){:target="_blank"}, _Submitted to Multimedia Tools and Applications_, December 2022.
 
 **L. Lévêque**, F. Villoteau, E. Sampaio, M. Perreira Da Silva, and P. Le Callet, [Comparing the robustness of humans and deep neural networks on facial expression recognition](https://www.mdpi.com/2079-9292/11/23/4030){:target="_blank"}, _Electronics_, vol. 11, December 2022.
 
