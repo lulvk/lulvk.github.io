@@ -19,3 +19,4 @@ Breaking news
 ======
 
 * [ACM IMX 2023](https://imx.acm.org/2023/){:target="_blank"} will be held in Nantes next June!
+* Our special session [Advancements in medical image quality assessment and their applications ](https://sites.google.com/view/qomex2023/authors/accepted-special-sessions/ss1){:target="_blank"} will take place at QoMEX 2023 in Ghent next June!
