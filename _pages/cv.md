@@ -19,8 +19,8 @@ Work experience
 
 Academic leadership
 ======
+* Vice Chair of [QoMEX 2023]([https://2022.ieeeicip.org/](https://sites.google.com/view/qomex2023/paper-submission/accepted-special-sessions/ss1)){:target="_blank"} Special Session: Advancements in medical image quality assessment and their applications
 * Web & Social Media chair of [ACM IMX 2023](https://imx.acm.org/2023/){:target="_blank"}
-* Chair of [ICIP 2022](https://2022.ieeeicip.org/){:target="_blank"} Special Session: Quality Assessment for Medical Imaging
 * Chair of ACM IMX 2022 Workshop: [Emotion IMX](https://emotionimx.ls2n.fr/){:target="_blank"}
 * Vice Chair of [Quality Assessment for Health Applications](https://www.its.bldrdoc.gov/vqeg/projects/quality-assessment-for-health-applications-qah.aspx){:target="_blank"}, Video Quality Experts Group (VQEG), 2020 to date
 * Leader of [Qualinet Task Force 3](http://www.qualinet.eu/index.php?option=com_content&view=article&id=46&Itemid=53){:target="_blank"}: Quality of Experience in Medical Imaging and Healthcare, 2017-2020
