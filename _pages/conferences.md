@@ -31,11 +31,11 @@ W. Zhang, W. Zou, F. Yang, **L. Lévêque**, and H. Liu, [The effect of spatio-t
 Workshop articles
 ==
 
-E. Sampaio, **L. Lévêque**, M. Perreira Da Silva, and P. Le Callet, Are facial expression recognition algorithms reliable in the context of interactive media? A new metric to analyse their performance, _EmotionIMX Workshop, ACM International Conference on Interactive Media Experiences (IMX), Aveiro, Portugal_, June 2022.
+E. Sampaio, **L. Lévêque**, M. Perreira Da Silva, and P. Le Callet, [Are facial expression recognition algorithms reliable in the context of interactive media? A new metric to analyse their performance](https://hal.science/hal-03789571/file/Emotions1.pdf){:target="_blank"}, _EmotionIMX Workshop, ACM International Conference on Interactive Media Experiences (IMX), Aveiro, Portugal_, June 2022.
 
-M. Le Coz, **L. Lévêque**, M. Perreira Da Silva, and P. Le Callet, From olfaction to emotions: An interactive and immersive experience, _EmotionIMX Workshop, ACM International Conference on Interactive Media Experiences (IMX), Aveiro, Portugal_, June 2022.
+M. Le Coz, **L. Lévêque**, M. Perreira Da Silva, and P. Le Callet, [From olfaction to emotions: An interactive and immersive experience](https://hal.science/hal-03789598/file/Emotions3.pdf){:target="_blank"}, _EmotionIMX Workshop, ACM International Conference on Interactive Media Experiences (IMX), Aveiro, Portugal_, June 2022.
 
-A. Agossah, **L. Lévêque**, F. Krupa, G. Deconde, M. Perreira Da Silva, and P. Le Callet, Liens entre confiance et acceptabilité dans un dispositif d’IA, _33ème Conférence Francophone sur l’Interaction Homme-Machine (IHM), Namur, Belgium_, April 2022.
+A. Agossah, **L. Lévêque**, F. Krupa, G. Deconde, M. Perreira Da Silva, and P. Le Callet, [Liens entre confiance et acceptabilité dans un dispositif d’IA](https://hal.science/hal-03789503/document){:target="_blank"}, _33ème Conférence Francophone sur l’Interaction Homme-Machine (IHM), Namur, Belgium_, April 2022.
 
 **L. Lévêque**, T. Bellet, J-C. Bornard, J. Deniel, M. Ranchet, E. De Baere, and B. Richard, [Development of an immersive simulation platform to study interactions between automated vehicles and pedestrians](https://www.researchgate.net/publication/344418400_Development_of_an_Immersive_Simulation_Platform_to_Study_Interactions_Between_Automated_Vehicles_and_Pedestrians){:target="_blank"}, _4th International Conference on Computer-Human Interaction Research and Applications, Online_, pp. 249-254, November 2020.
 
