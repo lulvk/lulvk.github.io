@@ -6,9 +6,9 @@ author_profile: true
 published: true
 ---
 
-**L. Lévêque**, P. Young, and H. Liu, [Studying the gaze patterns of expert radiologists in screening mammography: A case study with Breast Test Wales](https://ieeexplore.ieee.org/document/9287678){:target="_blank"}, _28th European Signal Processing Conference (EUSIPCO), Online_, January 2021.
+H. Jebbari, M. Outtas, **L. Lévêque**, and L. Zhang, Image quality assessment through the detection task of COVID-19 pneumonia, _Submitted to the 15th IEEE International Conference of Quality of Multimedia Experience (QoMEX), Ghent, Belgium_, June 2023.
 
-**L. Lévêque**, T. Bellet, J-C. Bornard, J. Deniel, M. Ranchet, E. De Baere, and B. Richard, [Development of an immersive simulation platform to study interactions between automated vehicles and pedestrians](https://www.researchgate.net/publication/344418400_Development_of_an_Immersive_Simulation_Platform_to_Study_Interactions_Between_Automated_Vehicles_and_Pedestrians){:target="_blank"}, _4th International Conference on Computer-Human Interaction Research and Applications, Online_, pp. 249-254, November 2020.
+**L. Lévêque**, P. Young, and H. Liu, [Studying the gaze patterns of expert radiologists in screening mammography: A case study with Breast Test Wales](https://ieeexplore.ieee.org/document/9287678){:target="_blank"}, _28th European Signal Processing Conference (EUSIPCO), Online_, January 2021.
 
 **L. Lévêque**, J. Yang, X. Yang, P. Guo, K. Dasalla, L. Li, Y. Wu, and H. Liu, [CUID: A new study of perceived image quality and its subjective assessment](https://ieeexplore.ieee.org/document/9190737){:target="_blank"}, _27th IEEE International Conference on Image Processing (ICIP), Online_, October 2020.
 
@@ -28,7 +28,7 @@ W. Zhang, W. Zou, F. Yang, **L. Lévêque**, and H. Liu, [The effect of spatio-t
 <br />
 
 
-Other conference and workshop abstracts and presentations
+Workshop articles
 ==
 
 E. Sampaio, **L. Lévêque**, M. Perreira Da Silva, and P. Le Callet, Are facial expression recognition algorithms reliable in the context of interactive media? A new metric to analyse their performance, _EmotionIMX Workshop, ACM International Conference on Interactive Media Experiences (IMX), Aveiro, Portugal_, June 2022.
@@ -36,6 +36,8 @@ E. Sampaio, **L. Lévêque**, M. Perreira Da Silva, and P. Le Callet, Are facial
 M. Le Coz, **L. Lévêque**, M. Perreira Da Silva, and P. Le Callet, From olfaction to emotions: An interactive and immersive experience, _EmotionIMX Workshop, ACM International Conference on Interactive Media Experiences (IMX), Aveiro, Portugal_, June 2022.
 
 A. Agossah, **L. Lévêque**, F. Krupa, G. Deconde, M. Perreira Da Silva, and P. Le Callet, Liens entre confiance et acceptabilité dans un dispositif d’IA, _33ème Conférence Francophone sur l’Interaction Homme-Machine (IHM), Namur, Belgium_, April 2022.
+
+**L. Lévêque**, T. Bellet, J-C. Bornard, J. Deniel, M. Ranchet, E. De Baere, and B. Richard, [Development of an immersive simulation platform to study interactions between automated vehicles and pedestrians](https://www.researchgate.net/publication/344418400_Development_of_an_Immersive_Simulation_Platform_to_Study_Interactions_Between_Automated_Vehicles_and_Pedestrians){:target="_blank"}, _4th International Conference on Computer-Human Interaction Research and Applications, Online_, pp. 249-254, November 2020.
 
 **L. Lévêque**, H. Bosmans, L. Cockmartin, and H. Liu, Impact of expertise on reading mammograms: An eye-tracking study, _Medical Image Perception Society (MIPS) XVIII, Salt Lake City, Utah, United States of America_, July 2019.
 
