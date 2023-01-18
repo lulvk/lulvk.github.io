@@ -18,5 +18,5 @@ From 2017 to 2020, I was the leader of Qualinet task force 3: Quality of Experie
 Breaking news
 ======
 
-* [ACM IMX 2023](https://imx.acm.org/2023/){:target="_blank"} will be held in Nantes next June!
-* Our special session [Advancements in medical image quality assessment and their applications ](https://sites.google.com/view/qomex2023/authors/accepted-special-sessions/ss1){:target="_blank"} will take place at QoMEX 2023 in Ghent next June!
+* Our workshop [Cinemotion: Emotions in movies](https://imx.acm.org/2023/){:target="_blank"} will take place at IMX 2023 in Nantes next June!
+* Our special session [Advancements in medical image quality assessment and their applications](https://sites.google.com/view/qomex2023/authors/accepted-special-sessions/ss1){:target="_blank"} will take place at QoMEX 2023 in Ghent next June!
