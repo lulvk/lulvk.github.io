@@ -13,13 +13,14 @@ published: true
 Work experience
 ======
 * Postdoctoral Researcher (from June 2021 to June 2023), [Nantes Université](https://english.univ-nantes.fr/){:target="_blank"}, Nantes, France
-* Research Fellow (from March 2020 to June 2021), [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/en/){:target="_blank"}, Lyon, France
-* Research Fellow (from February to December 2019), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/){:target="_blank"}, Suzhou, China 
+* Postdoctoral Researcher (from March 2020 to June 2021), [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/en/){:target="_blank"}, Lyon, France
+* Postdoctoral Researcher (from February to December 2019), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/){:target="_blank"}, Suzhou, China 
 <br />
 
 Academic leadership
 ======
-* Vice Chair of [QoMEX 2023]([https://2022.ieeeicip.org/](https://sites.google.com/view/qomex2023/paper-submission/accepted-special-sessions/ss1)){:target="_blank"} Special Session: Advancements in medical image quality assessment and their applications
+* Technical Program Committee member of [QoMEX 2023](https://sites.google.com/view/qomex2023/home){:target="_blank"}
+* Vice Chair of [QoMEX 2023](https://sites.google.com/view/qomex2023/paper-submission/accepted-special-sessions/ss1){:target="_blank"} Special Session: Advancements in medical image quality assessment
 * Web & Social Media chair of [ACM IMX 2023](https://imx.acm.org/2023/){:target="_blank"}
 * Chair of ACM IMX 2022 Workshop: [Emotion IMX](https://emotionimx.ls2n.fr/){:target="_blank"}
 * Vice Chair of [Quality Assessment for Health Applications](https://www.its.bldrdoc.gov/vqeg/projects/quality-assessment-for-health-applications-qah.aspx){:target="_blank"}, Video Quality Experts Group (VQEG), 2020 to date
