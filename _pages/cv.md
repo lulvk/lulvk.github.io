@@ -34,7 +34,3 @@ Education
 * M.Sc. in Signals and Images in Biology and Medicine, [University of Angers](https://www.univ-angers.fr/en/){:target="_blank"}, France, 2015
 * M.Eng. in Applied Cognitive Science and Technology, [Bordeaux INP](https://ensc.bordeaux-inp.fr/fr){:target="_blank"}, France, 2015
 * B.Eng. in Applied Cognitive Science and Technology, [Bordeaux INP](https://ensc.bordeaux-inp.fr/fr){:target="_blank"}, France, 2013
-
-<br />
-My full resume can be found [here](/files/LEVEQUE_CV_Eng.pdf){:target="_blank"} in PDF format. <br />
-
