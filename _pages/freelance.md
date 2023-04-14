@@ -10,8 +10,6 @@ I will proofread and edit your documents for:
 * Spelling, grammar, punctuation...
 * ... but also for consistency, readability, and flow.
 
-<br />
-
 Please [contact me](mailto:lucie.leveque@ensc.fr){:target="_blank"} to discuss your needs and so that I send you a quote. I look forward to working with you!
 
 Why me?
