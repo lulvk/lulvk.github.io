@@ -7,7 +7,7 @@ author_profile: true
 
 I will efficiently proofread your scientific articles, in English or French
 ======
-<br />
+
 I will proofread and edit your documents for:
 * Spellings
 * Grammar
@@ -30,6 +30,8 @@ I have reviewed manuscripts for IEEE Journal of Biomedical and Health Informatic
 They trusted me
 ======
 
+
+<p style="text-align:center;"><img src="/images/Travel.jpg" alt="Canada and Cape Verde"></p>
 
 <br />
 
