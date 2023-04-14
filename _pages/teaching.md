@@ -26,6 +26,10 @@ Teaching
 Student supervision
 =====
 
+### Polytech Nantes (2022-2023) <br />
+* Supervisor of MEng students on their research project (from October to January)
+* Co-supervisor of one MEng student on their technical project (from October to January)
+
 ### Polytech Nantes (2021-2022) <br />
 * Supervisor of three MEng students for their internship (from February to August)
 * Supervisor of MEng students on their technical project (from October to January)
