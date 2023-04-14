@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I will proofread and edit your documents for:
+I can proofread and edit your documents for:
 * Spelling, grammar, punctuation...
 * ... but also for consistency, readability, and flow.
 
