@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Proofreading"
+title: "I will efficiently proofread your scientific articles, in English or French"
 permalink: /freelance/
 author_profile: true
 ---
-
-I will efficiently proofread your scientific articles, in English or French
-======
 
 I will proofread and edit your documents for:
 * Spellings
