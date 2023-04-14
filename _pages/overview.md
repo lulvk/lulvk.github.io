@@ -12,11 +12,11 @@ I am a Postdoctoral Researcher at the [LS2N Laboratory](https://www.ls2n.fr/?lan
 
 I received the M.Eng. degree in cognitive engineering from the National Superior School of Cognitics, Bordeaux, France, in 2015, the M.Sc. degree in biomedical imaging from the University of Angers, France, in 2015, and the Ph.D. degree from the [School of Computer Science and Engineering](https://www.cardiff.ac.uk/computer-science){:target="_blank"}, Cardiff University, United Kingdom, in 2019.
 
-From 2017 to 2020, I was the leader of Qualinet task force 3: Quality of Experience (QoE) in medical imaging and healthcare. I am now vice chair of the Video Quality Experts Group (VQEG) on [Quality Assessment for Health Applications]([https://www.its.bldrdoc.gov/vqeg/projects/quality-assessment-for-health-applications-qah.aspx](https://sites.google.com/view/qomex2023/authors/special-sessions/ss1)){:target="_blank"}.
+From 2017 to 2020, I was the leader of Qualinet task force 3: Quality of Experience (QoE) in medical imaging and healthcare. I am now vice chair of the Video Quality Experts Group (VQEG) on [Quality Assessment for Health Applications](https://www.its.bldrdoc.gov/vqeg/projects/quality-assessment-for-health-applications-qah.aspx){:target="_blank"}.
 
 
 Breaking news
 ======
 
 * Our workshop [Cinemotions: Emotions in Movies](https://project.inria.fr/wicedxcinemotions2023/){:target="_blank"}  and the WICED: Workshop on Intelligent Cinematography and Editing will be joining hands this year at IMX 2023 in Nantes!
-* Our special session [Advancements in medical image quality assessment and their applications](https://sites.google.com/view/qomex2023/authors/accepted-special-sessions/ss1){:target="_blank"} will take place at QoMEX 2023 in Ghent!
+* Our special session [Advancements in medical image quality assessment and their applications](https://sites.google.com/view/qomex2023/authors/accepted-special-sessions/ss1](https://sites.google.com/view/qomex2023/authors/special-sessions/ss1){:target="_blank"} will take place at QoMEX 2023 in Ghent!
