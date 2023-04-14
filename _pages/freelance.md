@@ -6,15 +6,10 @@ author_profile: true
 ---
 
 I will proofread and edit your documents for:
-* Spellings
-* Grammar
-* Punctuation
+* Spellings, grammar, and punctuation
 <br />
-
 ... but also for:
-* Consistency
-* Readability
-* Flow
+* Consistency, readability, and flow
 
 
 Why me?
