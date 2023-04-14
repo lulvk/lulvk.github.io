@@ -21,7 +21,7 @@ I have reviewed manuscripts for IEEE Journal of Biomedical and Health Informatic
 They trusted me
 ======
 
-<p style="text-align:center;"><img src="/images/fiverr.png" alt="Avis"></p>
+<p style="text-align:center;"><img src="/images/fiverr2.png" alt="Avis"></p>
 
 <br />
 
