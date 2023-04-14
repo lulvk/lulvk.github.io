@@ -19,4 +19,4 @@ Breaking news
 ======
 
 * Our workshop [Cinemotions: Emotions in Movies](https://project.inria.fr/wicedxcinemotions2023/){:target="_blank"}  and the WICED: Workshop on Intelligent Cinematography and Editing will be joining hands this year at IMX 2023 in Nantes!
-* Our special session [Advancements in medical image quality assessment and their applications](https://sites.google.com/view/qomex2023/authors/accepted-special-sessions/ss1](https://sites.google.com/view/qomex2023/authors/special-sessions/ss1){:target="_blank"} will take place at QoMEX 2023 in Ghent!
+* Our special session [Advancements in medical image quality assessment and their applications](https://sites.google.com/view/qomex2023/authors/accepted-special-sessions/ss1){:target="_blank"} will take place at QoMEX 2023 in Ghent!
