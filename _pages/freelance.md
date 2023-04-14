@@ -10,17 +10,16 @@ I will proofread and edit your documents for:
 * Spelling, grammar, punctuation...
 * but also for consistency, readability, and flow
 
-They trusted me
-======
+<br />
 
-<p style="text-align:center;"><img src="/images/fiverr2.png" alt="Avis"></p>
-
+Please contact me to discuss your needs and so that I send you a quote. I look forward to working with you!
 
 Why me?
 ======
 I am published in high-quality peer-reviewed journals, such as IEEE Access, Physics in Biology & Medicine, and Signal Processing: Image Communication.
 I have reviewed manuscripts for IEEE Journal of Biomedical and Health Informatics, and Journal of Digital Imaging (among others).
 
-<br />
+They trusted me
+======
 
-I look forward to working with you!
+<p style="text-align:center;"><img src="/images/fiverr2.png" alt="Avis"></p>
