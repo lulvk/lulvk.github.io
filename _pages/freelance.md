@@ -30,4 +30,4 @@ They trusted me
 
 <br />
 
-Thank you in advance for trusting me. I look forward to working with you.
+I look forward to working with you!
