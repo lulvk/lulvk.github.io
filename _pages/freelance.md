@@ -22,13 +22,11 @@ Why me?
 I am published in high-quality peer-reviewed journals, such as IEEE Access, Physics in Biology & Medicine, and Signal Processing: Image Communication.
 I have reviewed manuscripts for IEEE Journal of Biomedical and Health Informatics, and Journal of Digital Imaging (among others).
 
-<br />
 
 They trusted me
 ======
 
-
-<p style="text-align:center;"><img src="/images/Travel.jpg" alt="Canada and Cape Verde"></p>
+<p style="text-align:center;"><img src="/images/fiverr.jpg" alt="Avis"></p>
 
 <br />
 
