@@ -5,17 +5,10 @@ permalink: /freelance/
 author_profile: true
 ---
 
-<br />
 
 I will proofread and edit your documents for:
-* Spelling
-* Grammar
-* Punctuation
-
-... but also for:
-* Consistency
-* Readability
-* Flow
+* Spelling, grammar, punctuation...
+* but also for consistency, readability, and flow
 
 They trusted me
 ======
