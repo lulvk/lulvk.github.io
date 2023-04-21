@@ -6,6 +6,8 @@ author_profile: true
 published: true
 ---
 
+L. Xia, H. Jebbari, O. Deforges, **L. Lévêque**, L. Zhang, and M. Outtas, Denoised CT images quality assessment through COVID-19 pneumonia detection task, _IEEE International Conference on Quality of Multimedia Experience (QoMEX), Ghent, Belgium_, June 2023.
+
 A. Bruckert, **L. Lévêque**, M. Perreira Da Silva, and P. Le Callet, [A dataset of gaze and mouse patterns in the context of facial expression recognition](https://hal.science/hal-04056026){:target="_blank"}, _ACM International Conference on Interactive Media Experiences (IMX), Nantes, France_, June 2023.
 
 **L. Lévêque**, P. Young, and H. Liu, [Studying the gaze patterns of expert radiologists in screening mammography: A case study with Breast Test Wales](https://ieeexplore.ieee.org/document/9287678){:target="_blank"}, _28th European Signal Processing Conference (EUSIPCO), Online_, January 2021.
