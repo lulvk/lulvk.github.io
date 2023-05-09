@@ -10,7 +10,7 @@ L. Xia, H. Jebbari, O. Deforges, L. Zhang, **L. Lévêque**, and M. Outtas, [Den
 
 A. Bruckert, **L. Lévêque**, M. Perreira Da Silva, and P. Le Callet, [A dataset of gaze and mouse patterns in the context of facial expression recognition](https://hal.science/hal-04056026){:target="_blank"}, _ACM International Conference on Interactive Media Experiences (IMX), Nantes, France_, June 2023.
 
-A. Boutin, **L. Lévêque**, and S. Desmoulin-Canselier, On legal and ethical challenges of automatic facial expression recognition: An exploratory study, _ACM International Conference on Interactive Media Experiences (IMX), Work-in-Progress, Nantes, France_, June 2023.
+A. Boutin, S. Desmoulin-Canselier, and **L. Lévêque**, On legal and ethical challenges of automatic facial expression recognition: An exploratory study, _ACM International Conference on Interactive Media Experiences (IMX), Work-in-Progress, Nantes, France_, June 2023.
 
 **L. Lévêque**, P. Young, and H. Liu, [Studying the gaze patterns of expert radiologists in screening mammography: A case study with Breast Test Wales](https://ieeexplore.ieee.org/document/9287678){:target="_blank"}, _28th European Signal Processing Conference (EUSIPCO), Online_, January 2021.
 
