@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-J. Lou, X. Zhao, X. Wu, Y. Wu, **L. Lévêque**, X. Liu, P. Guo, Y. Qin, H. Lin, D. Saupe, and H. Liu, CUDAS: Distortion-aware saliency benchmark, _IEEE Access_, May 2023.
+J. Lou, X. Zhao, X. Wu, Y. Wu, **L. Lévêque**, X. Liu, P. Guo, Y. Qin, H. Lin, D. Saupe, and H. Liu, [CUDAS: Distortion-aware saliency benchmark](https://ieeexplore.ieee.org/document/10144754){:target="_blank"}, _IEEE Access_, May 2023.
 
 R. Rodrigues, **L. Lévêque**, J. Gutierrez, H. Jebbari, M. Outtas, L. Zhang, A. Chetouani, S. Al-Juboori, M. Martini, and A. Pinheiro, [Objective quality assessment of medical images and videos: Review and challenges](https://arxiv.org/abs/2212.07396){:target="_blank"}, _Submitted to Multimedia Tools and Applications_, December 2022.
 
