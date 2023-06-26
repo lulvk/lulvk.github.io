@@ -14,8 +14,8 @@ Please [contact me](mailto:lucie.leveque@ensc.fr){:target="_blank"} to discuss y
 
 Why me?
 ======
-I am published in high-quality peer-reviewed journals, such as IEEE Access, Physics in Biology & Medicine, and Signal Processing: Image Communication.
-I have reviewed manuscripts for IEEE Journal of Biomedical and Health Informatics, and Journal of Digital Imaging - among others.
+I am published in high-quality peer-reviewed journals, such as _IEEE Access_, _Physics in Biology & Medicine_, and _Signal Processing: Image Communication_.
+I have reviewed manuscripts for _IEEE Journal of Biomedical and Health Informatics_, and _Journal of Digital Imaging_ - among others.
 
 They trusted me
 ======
