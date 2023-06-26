@@ -18,5 +18,6 @@ From 2017 to 2020, I was the leader of Qualinet task force 3: Quality of Experie
 Breaking news
 ======
 
-* Our workshop [Cinemotions: Emotions in Movies](https://project.inria.fr/wicedxcinemotions2023/){:target="_blank"}  and the WICED: Workshop on Intelligent Cinematography and Editing will be joining hands this year at IMX 2023 in Nantes!
-* Our special session [Advancements in medical image quality assessment and their applications](https://sites.google.com/view/qomex2023/authors/special-sessions/ss1){:target="_blank"} will take place at QoMEX 2023 in Ghent!
+* Our article [CUDAS: Distortion-aware saliency benchmark](https://ieeexplore.ieee.org/abstract/document/10144754){:target="_blank"} has been accepted for publication in _IEEE Access_!
+* Our articles [A dataset of gaze and mouse patterns in the context of facial expression recognition](https://hal.science/hal-04056026/){:target="_blank"} and [On legal and ethical challenges of automatic facial expression recognition: An exploratory study](https://hal.science/hal-04093605/){:target="_blank"} were presented at _ACM IMX_ 2023!
+* Our article [Denoised CT images quality assessment through COVID-19 pneumonia detection task](https://hal.science/hal-04088481/){:target="_blank"} was presented at _QoMEX 2023_!
