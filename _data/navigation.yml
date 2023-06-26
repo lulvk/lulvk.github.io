@@ -6,6 +6,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Proofreading"
+    url: /freelance/
+    
   - title: "Publications"
     url: /publications/
 
@@ -14,9 +17,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Proofreading"
-    url: /freelance/
     
   - title: "Miscellaneous"
     url: /aboutme/
