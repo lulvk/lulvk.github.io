@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr Lucie Lévêque"
 title_separator          : "-"
 name                     : &name "Lucie Lévêque"
-description              : &description "Lecturer"
+description              : &description ""
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Lucie Lévêque"
   avatar           : "Me.jpg"
-  bio              : "Postdoctoral Researcher <br /> Nantes University"
+  bio              : "Postdoctoral Researcher <br /> & Freelance Proofreader"
   employer         : 
   location         : "Nantes, France"
-  email            : "Lucie.Leveque@univ-nantes.fr"
+  email            : "Lucie.Leveque@ensc.fr"
   pubmed           : 
   linkedin         : "lucie-leveque"
   googlescholar    : "https://scholar.google.co.uk/citations?user=a7UuJD8AAAAJ&hl=en"
