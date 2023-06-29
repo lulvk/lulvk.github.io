@@ -25,5 +25,5 @@ They trusted me
 Rates
 =====
 
-* Scientific articles in English: $10 for 500 words (abstracts), $35 for 2K words (short articles), $85 for 6K words (full-length articles)
-* Any texts in French: $5 for 500 words, $15 for 1800 words, $45 for 6K words
+* Scientific articles in English: €10 for 500 words (abstracts), €35 for 2K words (short articles), €85 for 6K words (full-length articles)
+* Any texts in French: €5 for 500 words, €15 for 1800 words, €45 for 6K words
