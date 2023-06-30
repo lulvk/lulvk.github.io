@@ -8,7 +8,7 @@ redirect_from:
   - /overview.html
 published: true
 ---
-Welcome to my website!
+Welcome to my website! I am currently retiring from academia and working on my career transition.
 
 I received the M.Eng. degree in cognitive engineering from the National Superior School of Cognitics, Bordeaux, France, in 2015, the M.Sc. degree in biomedical imaging from the University of Angers, France, in 2015, and the Ph.D. degree from the [School of Computer Science and Engineering](https://www.cardiff.ac.uk/computer-science){:target="_blank"}, Cardiff University, United Kingdom, in 2019.
 
