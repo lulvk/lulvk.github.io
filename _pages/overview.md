@@ -12,7 +12,7 @@ Welcome to my website!
 I am currently retiring from academia and starting a career transition. In the meantime, I have been working as a [freelance proofreader](https://lulvk.github.io/freelance/){:target="_blank"}.
 
 Background
---
+==
 
 I received the M.Eng. degree in cognitive engineering from the National Superior School of Cognitics, Bordeaux, France, in 2015, the M.Sc. degree in biomedical imaging from the University of Angers, France, in 2015, and the Ph.D. degree from the School of Computer Science and Engineering, Cardiff University, United Kingdom, in 2019.
 
