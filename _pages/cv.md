@@ -13,9 +13,9 @@ published: true
 Work experience
 ======
 * Freelance Proofreader (since September 2021)
-* Postdoctoral Researcher (from June 2021 to June 2023), [Nantes Université](https://english.univ-nantes.fr/){:target="_blank"}, Nantes, France
-* Postdoctoral Researcher (from March 2020 to June 2021), [Université Gustave Eiffel](https://www.univ-gustave-eiffel.fr/en/){:target="_blank"}, Lyon, France
-* Postdoctoral Researcher (from February to December 2019), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/){:target="_blank"}, Suzhou, China 
+* Postdoctoral Researcher (from June 2021 to June 2023), Nantes Université, France
+* Postdoctoral Researcher (from March 2020 to June 2021), Université Gustave Eiffel, Lyon, France
+* Postdoctoral Researcher (from February to December 2019), Xi'an Jiaotong-Liverpool University, Suzhou, China 
 <br />
 
 Academic leadership
@@ -30,7 +30,7 @@ Academic leadership
 
 Education
 ======
-* Ph.D. in Computer Science, [Cardiff University](https://www.cardiff.ac.uk/){:target="_blank"}, United Kingdom, 2019
-* M.Sc. in Signals and Images in Biology and Medicine, [University of Angers](https://www.univ-angers.fr/en/){:target="_blank"}, France, 2015
-* M.Eng. in Applied Cognitive Science and Technology, [Bordeaux INP](https://ensc.bordeaux-inp.fr/fr){:target="_blank"}, France, 2015
-* B.Eng. in Applied Cognitive Science and Technology, [Bordeaux INP](https://ensc.bordeaux-inp.fr/fr){:target="_blank"}, France, 2013
+* Ph.D. in Computer Science, Cardiff University, United Kingdom, 2019
+* M.Sc. in Signals and Images in Biology and Medicine, University of Angers, France, 2015
+* M.Eng. in Applied Cognitive Science and Technology, Bordeaux INP, France, 2015
+* B.Eng. in Applied Cognitive Science and Technology, Bordeaux INP, France, 2013
