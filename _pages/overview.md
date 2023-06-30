@@ -8,7 +8,8 @@ redirect_from:
   - /overview.html
 published: true
 ---
-Welcome to my website! I am currently retiring from academia and starting a career transition. In the meantime, I have been working as a [freelance proofreader](https://lulvk.github.io/freelance/){:target="_blank"}.
+Welcome to my website!
+I am currently retiring from academia and starting a career transition. In the meantime, I have been working as a [freelance proofreader](https://lulvk.github.io/freelance/){:target="_blank"}.
 
 Background
 --
