@@ -14,8 +14,8 @@ I am currently retiring from academia and starting a career transition. In the m
 Background
 ==
 
-I received the M.Eng. degree in cognitive engineering from the National Superior School of Cognitics, Bordeaux, France, in 2015, the M.Sc. degree in biomedical imaging from the University of Angers, France, in 2015, and the Ph.D. degree from the School of Computer Science and Engineering, Cardiff University, United Kingdom, in 2019.
+I received the M.Eng. degree in applied cognitive engineering from the National Superior School of Cognitics of Bordeaux (France) in 2015; the M.Sc. degree in biomedical imaging from the University of Angers (France), in 2015; and the Ph.D. degree from the School of Computer Science and Engineering of Cardiff University (UK) in 2019.
 
 My research interests used to include human-computer interaction (HCI), computer vision, visual perception and attention, and medical imaging.
 
-From 2017 to 2020, I was the leader of Qualinet task force 3: Quality of Experience (QoE) in medical imaging and healthcare. I was vice chair of the Video Quality Experts Group (VQEG) on Quality Assessment for Health Applications between 2020 and 2023.
+From 2017 to 2020, I was the leader of Qualinet task force 3: Quality of Experience in medical imaging and healthcare. I was vice chair of the Video Quality Experts Group (VQEG) on Quality Assessment for Health Applications between 2020 and 2023.
