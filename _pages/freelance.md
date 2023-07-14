@@ -20,4 +20,4 @@ I have reviewed manuscripts for _IEEE Journal of Biomedical and Health Informati
 They trusted me
 ======
 
-<p style="text-align:left;"><img src="/images/fiverr.png" alt="Avis"></p>
+<p style="text-align:left;"><img src="/images/Fiverr.png" alt="Avis"></p>
