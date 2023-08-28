@@ -13,6 +13,8 @@ Traveling
 ... has been my greatest passion for ten years. I want to keep a childlike sense of wonder about the world. <br />
 There is always something new to learn, always something wonderful to discover and to explore.
 
+Check my travel blog here! [www.myatlas.com/luciewanderlust](https://www.myatlas.com/luciewanderlust){:target="_blank"}
+
 **Countries I have visited**: Belgium, Cape Verde, Canada, China, Croatia, Cuba, Czech Republic, France, Germany, Ghana, Greece, Hong Kong, Iceland, Indonesia, Iran, Ireland, Italy, Macao, Malta, Morocco, Netherlands, Norway, Portugal, Scotland, Spain, Taiwan, United Kingdom, United States.
 
 On my **bucket list?** Australia, Brazil, Mauritius, Namibia, New Zealand, Oman, Tanzania...
