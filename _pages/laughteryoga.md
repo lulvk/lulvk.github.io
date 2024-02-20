@@ -18,4 +18,6 @@ Quelques bienfaits du Yoga du rire :
 * Bien-être
 * Joie de vivre
 
-J'ai reçu mon habilitation par l’[Institut Français & International du Yoga du Rire](https://www.formation-yogadurire.fr/){:target="_blank"}, pour animer des séances dans le respect de la méthode officielle et approuvée par le médecin fondateur. 
+Je propose des séances pour particuliers et professionnels, en français et en anglais. N'hésitez pas à me contacter par [e-mail](mailto:lucie.leveque@ensc.fr){:target="_blank"} pour plus d'informations.
+
+J'ai reçu mon habilitation en 2024 par l’[Institut Français & International du Yoga du Rire](https://www.formation-yogadurire.fr/){:target="_blank"}, pour animer des séances dans le respect de la méthode officielle et approuvée par le médecin fondateur.
