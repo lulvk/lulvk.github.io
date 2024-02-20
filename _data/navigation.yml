@@ -17,6 +17,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+    - title: "Laughter yoga"
+    url: /laughteryoga/
     
-  - title: "Miscellaneous"
+  - title: "Misc."
     url: /aboutme/
