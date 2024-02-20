@@ -18,9 +18,9 @@ Quelques bienfaits du Yoga du rire :
 * Joie de vivre
 
 Je propose des séances pour particuliers et professionnels, en français et en anglais.
-N'hésitez pas à me contacter par [e-mail](mailto:lucie.leveque@ensc.fr){:target="_blank"} pour plus d'informations.
+N'hésitez pas à me contacter pour plus d'informations !
 
 <p style="text-align:center;"><img src="/images/Yogadurire1.png" alt="Yoga du rire"></p>
 <p style="text-align:center;"><img src="/images/Yogadurire2.png" alt="Yoga du rire 2"></p>
 
-J'ai reçu mon habilitation en 2024 par l’[Institut Français & International du Yoga du Rire](https://www.formation-yogadurire.fr/){:target="_blank"}, pour animer des séances dans le respect de la méthode officielle et approuvée par le médecin fondateur.
+J'ai reçu mon habilitation par l’[Institut Français & International du Yoga du Rire](https://www.formation-yogadurire.fr/){:target="_blank"}, pour animer des séances dans le respect de la méthode officielle et approuvée par le médecin fondateur.
