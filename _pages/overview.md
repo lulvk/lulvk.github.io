@@ -9,7 +9,9 @@ redirect_from:
 published: true
 ---
 Welcome to my website!
-I am currently retiring from academia and starting a career transition. In the meantime, I have been working as a [freelance proofreader](https://lulvk.github.io/freelance/){:target="_blank"}. I have also received my diploma as [laughter yoga leader](https://lulvk.github.io/laughteryoga/){:target="_blank"}!
+I am currently retiring from academia and starting a career transition.
+In the meantime, I have been working as a [freelance proofreader](https://lulvk.github.io/freelance/){:target="_blank"}.
+I have also received my diploma as [laughter yoga leader](https://lulvk.github.io/laughteryoga/){:target="_blank"}!
 
 Background
 ==
