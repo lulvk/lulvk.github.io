@@ -22,7 +22,7 @@ Quelques bienfaits du Yoga du rire :
 Je propose des séances pour particuliers et professionnels, en français et en anglais. <br/>
 N'hésitez pas à me contacter pour plus d'informations !
 
-[https://www.yoga-du-rire-observatoire.info/animateur/1873/lucie-leveque](https://www.yoga-du-rire-observatoire.info/animateur/1873/lucie-leveque){:target="_blank"}
+[https://www.yoga-du-rire-observatoire.info/fiche/1673/chambery/yoga-du-rire-chambery](https://www.yoga-du-rire-observatoire.info/fiche/1673/chambery/yoga-du-rire-chambery){:target="_blank"}
 
 <p style="text-align:center;"><img src="/images/Yogadurire2.png" alt="Yoga du rire 2"></p>
 
