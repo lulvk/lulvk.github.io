@@ -6,9 +6,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Proofreading"
-    url: /freelance/
-    
   - title: "Publications"
     url: /publications/
 
@@ -16,7 +13,10 @@ main:
     url: /conferences/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/     
+    
+  - title: "Proofreading"
+    url: /freelance/ 
 
   - title: "Laughter yoga"
     url: /laughteryoga/
