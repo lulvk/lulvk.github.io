@@ -20,6 +20,7 @@ Work experience
 
 Academic leadership
 ======
+* Web & Social Media chair of ACM IMX 2024
 * Chair of QoMEX 2023 Special Session: Advancements in medical image quality assessment
 * Web & Social Media chair of ACM IMX 2023
 * Chair of ACM IMX 2023 Workshop: WICED x Cinemotions
