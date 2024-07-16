@@ -9,9 +9,10 @@ redirect_from:
 published: true
 ---
 Welcome to my website!
-I am currently starting a career transition.
+
+I have been off for about a year due to health issues... I am now back here, stronger than ever!
 In the meantime, I have been working as a [freelance proofreader](https://lulvk.github.io/freelance/){:target="_blank"}.
-I have also received my diploma as [laughter yoga leader](https://lulvk.github.io/laughteryoga/){:target="_blank"}!
+I have also received my diploma as [laughter yoga leader](https://lulvk.github.io/laughteryoga/){:target="_blank"}.
 
 Background
 ==
