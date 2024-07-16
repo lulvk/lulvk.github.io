@@ -18,8 +18,8 @@ main:
   - title: "Proofreading"
     url: /freelance/ 
 
-  - title: "Laughter yoga"
-    url: /laughteryoga/
-    
   - title: "Misc."
     url: /aboutme/
+
+  - title: "Yoga du rire"
+    url: /laughteryoga/
