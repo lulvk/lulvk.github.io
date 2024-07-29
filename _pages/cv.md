@@ -12,7 +12,8 @@ published: true
 
 Work experience
 ======
-* Freelance Proofreader (since September 2022)
+* Project Manager (from September 2024), Université Savoie Mont-Blanc, Chambéry, France
+* Proofreader (since September 2022), Freelance
 * Postdoctoral Researcher (from June 2021 to June 2023), Nantes Université, France
 * Postdoctoral Researcher (from March 2020 to June 2021), Université Gustave Eiffel, Lyon, France
 * Postdoctoral Researcher (from February to December 2019), Xi'an Jiaotong-Liverpool University, Suzhou, China 
